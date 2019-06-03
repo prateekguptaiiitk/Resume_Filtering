@@ -1,0 +1,160 @@
+Arnab Banerjee
+AIX and Storage Administrator at Data Center - RICOH Americas Data Center, Macon
+
+Atlanta GA
+Work Experience
+AIX and Storage Administrator at Data Center
+RICOH Americas Data Center, Macon - Fremont, CA
+December 2011 to Present
+Georgia 
+Period: Dec 2011 to Present 
+Role: AIX and Storage Administrator at Data Center 
+ 
+AIX ROLE 
+• This Project involves System administration and Support of Hardware and software for IBM AIX P-series servers 400 LPARs, frames, in the datacenter, running 
+Oracle 11i DB. 
+• Lift and shift experience of 100 plus servers from IBM Data Center in Poughkeepsie to RICOH Datacenter in Macon, Georgia. 
+• Building VIOS and LPARs from scratch. Creating & managing volume group, 
+logical volume file systems 
+• Updating the latest Maintenance Level for the existing AIX operating system. 
+Migration of AIX OS From AIX 6 to AIX 7. 
+• Perform installation, periodic maintenance updates and applied latest APAR 
+fixes. 
+• User & group administrations. 
+• Worked in HMC to commission & manage LPAR, DLPAR. 
+• Performance monitoring for high CPU, Disk & Memory usage' 
+• Analysis of system error logs 
+• Managing daemons with SRC (system resource controller), starting, stopping & refreshing. 
+• Deal with various H/W & S/W problems in AIX server and also by logging call 
+with IBMSERV 
+• Maintenance and troubleshooting of HACMP clusters. 
+• Worked closely with the TSM team and gained experienced in TSM 6.3. System 
+backup management for rootvg & for non-rootvg using TSM, BMC Control-M, TIDAL 
+tools. 
+• Exposure to IBM LTO and 3584 Library Manager. 
+• Exposure to IBM Protectier for provisioning Virtual Tapes. 
+• Paging space & system dumps management. 
+• Network problem determination with ifconfig, iptrace, traceroute, netstat 
+commands 
+ 
+STORAGE ADMIN ROLE 
+• Problem determination and Storage provisioning to UNIX servers from XIV, 
+DS8000, SVC, V5000 and V7000. 
+• Support and upgrade of IBM Flash System 840 
+• Configuring switch alerts, threshold and policies. 
+• Experience of SubSystem Device Driver Path Control Module and datapath 
+query and pcmpath query commands. 
+• Collect SVCSnap and Supportsaves for health check and troubleshooting of SVC 
+and Backend Storage Error Codes. 
+• SAN Fabric Storage to host Soft Zoning in Brocade switches using Network 
+Advisor. 
+• Identifying problems in SAN Fabric and Switch ports using Event Logs, Link 
+Incident Logs. 
+• Block, UnBlock, , Bind and Unbind SFP Ports as per requirement. 
+• Checking the Performance, Port statistics, Error Statistics and Traffic flow in switches for Troubleshooting 
+• Collecting 'SupportSave' for Brocade switches and uploading to IBM for further 
+analysis.
+SAN Fabric Storage to host Soft and Hard Zoning and Dezoning
+RICOH Americas Data Center, Macon - Fremont, CA
+January 2009 to December 2011
+Fremont, CA 
+Client: IBM Data Center, Managed Storage Services, Boulder, 
+Colorado 
+Period: Jan 2009 to Dec 2011 
+Role: IBM SAN Storage Administration 
+ 
+Storage Provisioning and Troubleshooting 
+• Curving LUNs in XIV, ESS Shark, DS8000 and SVC, Allocation and Deallocation to hosts using DSCLI and SVC CLI. Volume creation and allocation 
+in XIV. 
+• Configuring hosts using WWPN and Portal name in XIV, ESS Shark, 
+DS8000 and SVC. 
+• Experience of SubSystem Device Driver Path Control Module and datapath query and pcmpath query commands. 
+• Troubleshooting SAN Storage related issues by working along with the Server System Administrators 
+• Collect SVCSnap for health check and troubleshooting of SVC Error 
+Codes. 
+• EMC DMX Storage Storage Provisioning using Mapping and Masking. 
+• SAN Fabric Storage to host Soft and Hard Zoning and Dezoning in McData and Brocade switches using Enterprise Fabric Connectivity Manager and 
+Data Center Fabric Manager. 
+• Identifying problems in SAN Fabric and Switch ports using Event Logs, 
+Link Incident Logs. 
+• Block, UnBlock, , Bind and Unbind SFP Ports as per requirement. 
+• Checking the Performance, Port statistics, Error Statistics and Traffic flow 
+in switches for Troubleshooting 
+• Collecting 'Data Collection' for McData Switches and 'SupportSave' for Brocade switches and uploading to Brocade for further analysis.
+System Operations Specialist
+IBM India Pvt. Ltd - Bangalore, Karnataka
+July 2005 to November 2008
+Project Handled: IBM Global Account Application Host Environment 
+(IGA-AHE) Boulder, CO and Poughkeepsie, NY USA 
+(Offshore remote support) 
+Role: AIX system administration 
+ 
+• This Project involved remote System administration and Support of Hardware and software for IBM AIX P-series servers (1200+ LPARs) 
+• Creating & managing volume group, logical volume file systems 
+• Updating the latest Maintenance Level for the existing AIX operating 
+system. 
+• Migration of AIX OS From AIX 5.1, 5.2 to AIX 5.3 
+• Perform installation, periodic maintenance updates and applied latest 
+APAR fixes. 
+• User & group administrations. 
+• Worked in HMC to commission & manage LPAR, DLPAR. 
+• Performance monitoring for high CPU, Disk & Memory usage' 
+• Analysis of system error logs 
+• Managing daemons with SRC (system resource controller), starting, 
+stopping & refreshing. 
+• Deal with various H/W & S/W problems in AIX server and also by logging 
+call with IBMSERV 
+• Maintenance and troubleshooting of HACMP clusters. 
+• Worked closely with the Tivoli Monitoring team and gained experienced in IBM Tivoli Monitoring 5.2, Tivoli Enterprise Console and Tivoli NetView products. 
+• Paging space & system dumps management. 
+• Network problem determination with ifconfig, iptrace, traceroute, netstat 
+commands. 
+• System backup management for rootvg & for non-rootvg.
+Hewlett Packard Global Services - Bangalore, Karnataka
+April 2004 to June 2005
+Role: Unix system administration 
+ 
+• Installing AIX-5L fixes & maintenance level. 
+• Creating Logical Volumes and File systems on AIX servers, Extending File 
+systems and space management 
+• Taking the full System backup by using mksysb to take care of all root file 
+system of root volume group 
+• Taking root Volume group and non-root Volume group's backup using 
+mksysb and savevg backups on periodic basis. 
+• File system management (creating JFS, JFS2 file systems, extending file 
+systems) 
+• User management (creating users, assigning permissions) 
+• Security management (assigning file/directory permissions) 
+• Working with LVM for managing file systems, Logical Volumes & Volume 
+groups. 
+• Paging space & system dumps management. 
+• User administration by creating users, assigning permissions, disk quotas, 
+and authentication.
+Customer Support Engineer
+HCL Info systems Limited - Varanasi, Uttar Pradesh
+September 2001 to March 2004
+Varanasi, India 
+Project Handled: Indian Railways, State Bank of India, Union Bank of India, 
+District Courts, Allahabad Bank 
+Period: September 2001 to March 2004 
+Role: Customer Support Engineer 
+ 
+• HP-UX 10.x with MC Service Guard cluster in Allahabad Bank. 
+• Creating Logical Volumes in Volume groups, Mirroring of Logical Volumes 
+• Daemon & Process management with (stopping, starting, refreshing) 
+• File system management (creating JFS, JFS2 file systems, extending file 
+systems) 
+• User management (creating users, assigning permissions) 
+• Security management (assigning file/directory permissions) 
+• Supported Windows servers / workstations, a few RHEL Linux servers, 
+Cisco / D-Link switches / hubs and peripherals. 
+• Windows Desktop troubleshooting and maintenance. Collect AMCs. 
+• Installation, troubleshooting and maintenance of HP Inkjet, LQ 1050, Lipi 
+Line printers.
+Education
+Diploma in Electrical Engineering in Electrical Engineering
+Board of Technical Education
+2001
+Bachelors in Science in Education
+West Bengal Board of Higher Secondary
+1997

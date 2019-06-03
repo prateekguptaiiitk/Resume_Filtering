@@ -1,0 +1,175 @@
+divya Sr. Java Developer (Full Stack)
+Sr. Java Developer
+
+San, Himachal Pradesh
+• Having around 8 years of professional experience in Design, Development, Testing, Deploying of Object Oriented, and Web based Applications using Java/J2EE technologies. 
+• Extensive knowledge of Agile and Scrum methodologies to develop best practices for software development and implementation. 
+• Experience in full software development lifecycle used Waterfall, Agile and Test Driven Development. 
+• Strong experience in web technologies like HTML, CSS, XML, UML, JSTL, JSF, Servlets, JavaBeans, EJB. 
+• Experience in developing SOA by utilizing various J2EE packages and associated technologies such as Struts, Hibernate, spring, JNDI, JDBC, JMS and SOAP, Rest web services. 
+• Hands-on experience in creating UI using web technologies Java, Java script, J2EE, Servlets, JQuery, Ajax, JSP, Angular JS, React JS, Angular2, Node.js, JAX RS. 
+• Developed various commands and helper classes using core Java mainly following multi-threaded concepts and MVC design patterns for the application like Factory Pattern, Singleton, Data Access object, session Facade, Business Delegate Factory. 
+• Developed and configured Java plugins using technologies/Frameworks like DOJO, Spring, hibernate, jsp for DB Connection and launching workflows. 
+• Hands on experience in implementing client-server business applications using MVC, SOA architecture and Micro Services. 
+• Experience in developing single page applications using Angular JS and Bootstrap. 
+• Experience with automated testing using Jmeter and unit testing using JUnit, developed various applications using ANT. 
+• Strong expertise in Java, Core Java concepts like Collections, Multithreading, Exception Handling and Java beans. 
+• Worked with NoSQL databases like Cassandra and Mongo DB for POC purpose. 
+• Knowledge of web debugging tools like Firebug. 
+• Implemented Docker containers and created clients respective Docker images and leveraged Apache to manage Cluster hosts for Applications 
+• Strong knowledge on REST and SOAP web services. 
+• Established connections with other applications by using Rabbit MQ and JMS to send messages from one application to other application internally. 
+• Worked on spring modules like IOC, Dependency Injection (DI), and Aspect Oriented Programming (AOP) 
+• Developed Maven based project structure having data layer, ORM and Web module. 
+• Involved in setting up Drools Rules engine to application to control central access of Business validations. 
+• Developed Apache Camel routes and defined JMS endpoints for message processing and routing. 
+• Involved in Design, UML Modeling in developing Use Case Diagrams using Rational Rose. 
+• Proficient in Database development using Oracle, My SQL Server, NOSQL, Postgre SQL databases using MongoDB in various projects with expertise in deploying Stored Procedures, Triggers, SQL Queries. 
+• Worked on Web Services using SOAP and REST. Also, used JAX - RS Web services and Jersey Client and Worked both on Service and Client Side Web Services 
+• Expertise in developing SOA and J2EE web services based on SOAP, WSDL, UDDI, JAX-WS, JAXB, JAX-RPC using tools like Apache Axis. 
+• Excellent communication and interpersonal skills, quick learner, self-motivated, ability to work individually and as well as in a team environment with good team spirit.
+Work Experience
+Sr. Java Developer
+Maxim Integrated - San Jose, CA
+January 2017 to Present
+Description: Maxim Integrated develops integrated circuits (ICs) for the automotive, industrial, communications, consumer, and computing markets. Designing a web application by developing Graphical User Interfaces for IC solutions including mobile, wearable and which supports thousands of concurrent online customers. In order to provide customer-centric solutions for the world's businesses and professionals, collaborating with industry expertise with innovative technology to deliver information to work with planning organizations. 
+ 
+Responsibilities: 
+• Involved in all most all the phases of software development life cycle (SDLC), which includes problem solving, analysis, design, coding, testing skills includes unit and acceptance testing. 
+• Used Agile methodology was used to develop the application. Daily Scrum was conducted as a part of this methodology. 
+• Developed GUI by using HTML 5, JSP, JavaScript, Angular JS, AJAX and CSS. 
+• Used Bootstrap for separating the database files for building an interface. 
+• Involved in developing multithreaded modules and applications by using core java concepts like Multithreading programming, Exception handling and collections. 
+• Involved in developing web Page Application using Angular JS, Ajax, Servlets, XSLT, XML Worked with XML and JSON. 
+• Worked on SPRING WEB FLOW for the action mapping calls from the views. 
+• Used features in Angular JS such as data binding, routing, custom filters, and custom directives to meet business requirements. 
+• Having experience in developing a data pipeline using Kafka to store data. 
+• Generated Java APIs for retrieval and analysis on No-SQL database such as HBase and Cassandra. 
+• Migrated spring based application to Cloud based Micro Service API. 
+• Used the Mozilla Firefox extension Firebug, to view and debug HTML, DOM and JavaScript. 
+• Created SQL queries and executed them by using Hibernate Template provided by spring for improving the performance of the Reporting modules. 
+• Used AJAX to use the RESTFUL web services in the application which supported different format like text, JSON and XML. 
+• AWS Lambda to extend other AWS services with custom logic, or create your own back-end services that operate at AWS scale, performance, and security. 
+• Used Rational Rose use case for defects, change tracking across the application. 
+• Utilized Cassandra, NOSQL database management system for keeping user generated data by upgrading of Couch base and Cassandra cluster. 
+• Developed unit test cases using JUnit and involved in Unit testing as part of development cycle. 
+• Developed SQL queries for manipulating the data by using Spring JDBC. 
+• Used Log4j for tracking the applications and SVN used for version control. 
+• Mapped java objects to Oracle Database using IBatis. 
+• Experience in configuring build tools like Maven for the development and deployment. 
+• Hands on Experience in Amazon web services (AWS) in migrating java applications to the cloud using EC2, S3 and object storage container to store and retrieved secured files, from API. 
+• Performed deployment of applications on IBM Web Sphere Application Server. 
+• Used Eclipse as IDE tool to develop the application and JIRA for bug and issue tracking. 
+• Followed complete test driven development (TDD) for execution of this project. 
+ 
+Environment: Eclipse, PL/SQL, Oracle11g, Log4j, DB2, Maven, REST, SOAP, JSTL, SVN, Servlets, Agile, microService, GIT, Kafka, iBatis.
+Sr. Java Developer
+Synchrony Financial - San Francisco, CA
+September 2015 to December 2016
+Description: Synchrony Financials is a different kind of financial firm. Our mission is to design Web- Based service that more efficiently manages invoicing from purchase order (PO) through payment notification. The web application provides functionalities such as managing the policy, profile management and reporting claim. The customer can access complete account information, policy information, receive instant auto insurance quote through Email. 
+ 
+Responsibilities: 
+• Engaged in all phases of SDLC in involving specifications, gathering Requirements, Designing, Coding, Testing, Deploying, and Maintaining in implementing projects. 
+• Developed the application by using Scrum methodology in agile environment. 
+• Used JIRA to report the hours and issues that are related to the project and Worked with mortgage express vendors to get all the connectivity needed details for the applications for both the production and non-production environment. 
+• Experience in building web applications using spring framework for implementing Dependency Injection and utilized features like MVC, AOP and DAO. 
+• Tested the web services by using Restful tool in the application which supported different format like text, JSON and XML. 
+• Involved in development of enterprise business solutions using JBOSS server. 
+• Designed and developed the REST based Micro services using the Spring Boot, Spring Data with JPA 
+• Hands on Experience in using Hibernate and SQL to retrieve the data from database. 
+• Involved in various tasks in support of coding and creating web pages using JavaScript/HTML, JavaScript, JSP, Struts. 
+• Worked on administration of EC2, AWS CLI for loading the data from S3 and scheduling it on daily basis. 
+• Have Experience in using Github repository to run the Jenkins job for Continues Integration while developing the applications and posting them in Github. 
+• Extensive use of Docker for developing test cases and performed unit and integration, tested by using JUnit. 
+• Used UNIX shell scripts for implementing daily jobs. 
+• Involved in raising questions for business, getting answers from them, bug fixing, and tracking is done by JIRA. 
+• Ability to work under pressure, easily adaptable and Self motivated. 
+ 
+Environment: Java/J2EE, spring, JPA, Java Script, Angular JS, jQuery, Hibernate, SQL DB, Oracle or MySQL, Ant or Maven, JUNIT, Firebug, Mongo DB, Cloud Services.
+Sr. Java Developer
+Allianz Insurance - Minneapolis, MN
+October 2013 to August 2015
+Description: It is Fast-growing Company that uses data-driven applications and services that enables customers to view and pay their bills over the Internet. This framework has different modules, like Enrollment for Online Insurance, Payment Options, Payment Schedule Options, Payment Delivery Options, Payment History, and E-mail Notifications, also a mail would be sent to the customers informing them about their bills being due. The Customer completes the forms indicating amount, percentage of the bill, from which account and when the bills are to be paid. 
+ 
+Responsibilities: 
+• Involved in agile development process following Test Driven Development Technique. 
+• Designing and developing Web application to generate reports using Java-J2EE technologies. 
+• Developed user-friendly web-based GUI using JSP, JavaScript, CSS, and HTML, JSTL tag libraries in JSP pages. 
+• User input validations done using JavaScript and developed use cases using UML. 
+• Involved in creating the JSP Pages. 
+• Implemented back-end service using spring annotations to retrieve user data information from database. 
+• Involved in deployment of the application using Web Sphere that makes to change the requirements. 
+• Integrated the applications with soap web services. 
+• Involved in unit testing using JUnit. 
+• Developed ANT script for building the application. 
+• Used JDBC to connect the J2EE server with the relational database. 
+• Design and developed different PL/SQL blocks, Stored Procedures in DB2 database. 
+• Involved in writing test cases using Mockito and Power Mock framework for code coverage. 
+• Developed and modified Servlets to accept and process request from the clients. 
+ 
+Environment: HTML, CSS, JavaScript, JDBC, Eclipse, Java-J2EE, PL/SQL, struts, spring, Hibernate, Ant, Apache, Mockito, JBOSS, Linux, windows.
+Java Developer
+SunGard solutions - Hyderabad, Telangana
+January 2012 to September 2013
+Description: Implement best practice solutions to address unique business challenges. These efficiently delivered solutions helps to transform business with targeted investments toward growth, optimized efficiency and predictable total cost of ownership and well-managed risk and compliance around business operations by helping firms around the world in identify the right technology strategy for their business, by developing proprietary software or integrating off-the-shelf products. 
+ 
+Responsibilities: 
+• Actively participated in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications, Development and Customization of the application. 
+• Developed the application using Agile/Scrum methodology which involves daily stand ups, 
+• Test driven development, continuous integration, demos and test automations. 
+• Strong hands-on knowledge of Core JAVA, Web-Based Application, and OOPS concepts. 
+• Developed Client Side technologies using HTML, CSS, and Java Script. 
+• Developed Server Side technologies using spring, Hibernate, Servlets/JSP, Multi-threading. 
+• Extensively worked with the retrieval and manipulation of data from the Oracle database by writing queries using SQL and PL/SQL. 
+• Web application development by Setting up an environment, configuring an application and Web Logic Application Server. 
+• Hands on Experience in coding, unit testing, Integration testing and Bug fixing. 
+ 
+Environment: Oracle/SQL Server and PL/SQL, spring, Hibernate, Ant, Apache, Tomcat, JBOSS, Web logic, UNIX, RDBMS, HTML, CSS, Java Script, JDBC, Eclipse, Multi threading.
+Java Developer
+Info Edge solutions - Hyderabad, Telangana
+August 2009 to December 2011
+Description: Cognitive computing helps to provide solutions to various kinds of fields which includes 
+Real estates, matrimony and educations. The major functions include Recording Personal Details, assigning Insurance Details, Retrieving and updating data. 
+ 
+Responsibilities: 
+• Involved in all phases of Designing and Development of application. 
+• Created Class diagrams and Use Case diagrams from design specification using Rational Rose. 
+• Worked in Waterfall Methodology and involved in the project discussions. 
+• Implemented action classes, form beans and JSP pages interaction with these components. 
+• Designed and developed the application using Struts Model View Controller (MVC) design Pattern. 
+• Developed Struts Action Forms, Action classes and templates and performed action mapping in struts. 
+• Develop GUI related changes using JSP, HTML and client validations using JavaScript. 
+• Coded JavaScript for AJAX and client side data validation. 
+• Extensive use of EJBs for middle tier component to implement the business logic. 
+• Developed an automated application using JMS for messaging and JNDI to interact with the Server. 
+• Implemented Service locator pattern to invoke EJBs through Struts. 
+• Used JMS API for asynchronous communication by putting the messages in the Message queue. 
+• Configured the data mapping between Oracle and SQL Server and tested performance accuracy related queries under SQL Server. 
+• Extensively used the JDBC Prepared Statement to embed the SQL queries into the java code. 
+• Implemented logging using log4j. 
+• Used CVS for version control. 
+• Tomcat Application Server was used for deploying the application. 
+• Created SQL queries, PL/SQL Stored Procedures and Functions. 
+ 
+Environment: Java 1.6, J2SE, JSP, Servlets, SQL, JDBC, Eclipse, HTML, MS Office, Windows, AJAX, EJB, JMS, JPA annotations, Firefox, JavaScript, JMS, PL/SQL, Oracle 9i, TOMCAT, log4j, Exception Handling, collections, HTML, CSS.
+Skills
+CSS. (6 years), Eclipse (6 years), Java (7 years), JSP (7 years), SQL (7 years)
+Additional Information
+Technical Skills: 
+Programming Languages Java/J2EE, Java 8, SQL, PL/SQL, C, C++. 
+Technologies & web Services JSP2.3, JSF2.2, JDBC4.0, Servlets, JSP, EJB, JDBC 4.0, JPA, JMS, Hibernate (ORM) ESB Web Services (REST, SOAP) WSDL, UDDI, SOA, JAX-RS, AXIS. 
+Frameworks 
+Struts2, CSS, Frameworks, GWT, spring 4 (Dependency Injection, Spring MVC, Spring Access, core, Spring Context, Spring AOP, Spring DAO, Spring IOC, Spring JDBC, Spring with Hibernate), Hibernate 4.0, Micro services, Angular.JS, Node.js, Bootstrap, JSF2.2. JUnit, Log4J 
+ 
+Databases Oracle […] DB2, PL/SQL, My SQL, SQL Server, NoSQL, Microsoft SQL server, DB2, Mongo DB, Cassandra. 
+Message Brokers Rabbit MQ, Kafka 
+Application Servers Web Logic […] IBM Web sphere […] Apache Tomcat 8, JBoss5.X, Glassfish, Jetty. 
+ 
+Operating Systems Windows XP/VISTA, UNIX/LINUX, MAC. 
+Apache Tools Log4j, Maven and ANT. 
+Integrated Development Tools Eclipse4.5, Net Beans, Red Hat Developer, TDD, IntelliJ, Rational Application Developer. 
+Application Tools Eclipse, RAD, Maven, Jenkins, JIRA 
+Testing Tools JUnit 4.9, Selenium, Firebug, Mockito, Log4j. 
+Web Technologies HTML5, CSS3, Java Script, AJAX, XML, JSON, React JS, Node JS, Dom, Angular 2. 
+Version Control CVS, SVN, Rational clear case, GIT, Github. 
+SDLC Methodologies Agile, Waterfall and Scrum models, RAD.

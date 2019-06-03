@@ -1,0 +1,66 @@
+Chirag Lakhina
+Application Developer
+
+Jind, Haryana
+• 36+ months of MSBI software development experience in Cognizant Technology Solution India pvt ltd. 
+• Proficient in developing ETL solutions (SSIS, SSRS, Pwer BI) 
+• Have exposure in debugging/testing ETL applications and implementing ad-hoc requests as per customer requirements. 
+• Experience in JAVA/J2EE technologies like Core Java, Collection-API, JSP, Servlets, JAVA-6, JAVA-7, Hibernate, Spring MVC3, SVN. 
+• Extensive experience in design, development, Testing and deployment of enterprise application development. 
+• Thorough Understanding of Software Development Life Cycle (SDLC), involved in various phases like Requirements, Analysis/Design, Development and Testing 
+• Proficient in writing T-SQL code for retrieval/manipulation of data and also involved in performance tuning of T-SQL queries along with database administrative works like backup/restore databases etc. 
+• Speedy and eager to learn new technologies as per the projects and clients requirements 
+• Strong Object Oriented concepts for software design and implementation.
+Work Experience
+Application Developer
+Ticketing Tool
+2012 to 2012
+ITSM 
+Backend: Oracle11g, SQL Server 2005, SQL Server 2008\2012 
+ 
+Project Description: 
+Cambridge Assessment operates and manages the University's three exam boards and carries out leading-edge academic and operational research on assessment in education. CA consists of many applications like EPS, IWAS, IBASE etc. which holds the various repositories of assessments, sessions, marks, candidate details etc. ODS is the operational data source which act as the central repository and also act as the target table for many CA applications. This database gets populated by SSIS jobs scheduled every day and acts as the source for various other applications as a process of Extraction, Transform, Load (ETL process) 
+ 
+Roles & Responsibilities: 
+• Providing ETL enhancements and maintenance to the end users for more than 10 Cambridge Assessment data warehousing applications. 
+• Created data comparison SSIS jobs between data sources system for functional testing. 
+• Monitoring and maintain SSIS Jobs on SQL servers in PRD, UAT, SYS. 
+• Debugging of the SSIS packages and providing the break-fix/Hot-fix for any existing code. 
+• Resolving the various data and connections related issues. 
+• Analyzing and providing SSRS reports on business requirement 
+ 
+Application #3 
+Title Cambridge Assessments: IELTS. 
+Operating System Windows 7 
+Tools Eclipse, Apache tomcat Server, WinSCP, Oracle 10g Database. 
+Programming Languages Core Java, JSP, Servlet, spring MVC, Hibernate 
+Role Application Developer 
+ 
+Project Description: 
+This is an enhancement project, application developed in Java Technology with using spring framework 
+IELTS is the world's most popular English language proficiency test. This is for higher education entrance test, some college worldwide accepted clearance of this test. A user has simply register on a IELTS website, and a admin approve this status by validating its identification after that he gives test and admin entered the scored, Through a Push job operation his score entered to another I-base end where is it publish to user, but the main task is in application when the admin entered the score a lot of validation step run in background also in foreground. 
+ 
+Role and Responsibilities 
+• Worked as JAVA Developer with a team of 5 peoples and handled various responsibilities in project development. 
+• Responsibilities include requirements gathering, in co-ordination Emerson Business analysts, creation technical design documents. 
+• Coding & unit testing of the module. 
+• Responsible for daily build activities and sending communication to the team. 
+• Responsible for providing support during UAT phase and resolving defects/queries raised during testing. 
+• Responsible for environment upgrades issue fixing.
+Education
+Bachelor of Technology in Computer Engineering
+Jind institute of engineering & Technology. (Haryana) Jind, Haryana
+2013
+Skills
+Java (1 year), JSP (1 year), MICROSOFT SSRS (1 year), MS SQL SERVER (1 year), SQL (1 year)
+Additional Information
+Technical Skills 
+Hardware / Platforms Windows/Linux 
+Technology Tools Used SSIS, SSRS, T-SQL, Pwer BI BIDS 2005, SSDT 2008, 2010, 2012, 2014, POWER BI 
+Programming language Core Java, JSP, Servlets, Spring 
+Databases SQL Server, T-SQL 
+ 
+Certifications & Achievement 
+ 
+• I have been awarded the best trainee award in my project. 
+• I have been awarded shining star performer.
