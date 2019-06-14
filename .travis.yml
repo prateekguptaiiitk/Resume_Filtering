@@ -20,6 +20,3 @@ install:
 
   - conda env create -n test-environment python=$TRAVIS_PYTHON_VERSION -f environment.yml
   - source activate test-environment
-
-script:
-  - py.test
