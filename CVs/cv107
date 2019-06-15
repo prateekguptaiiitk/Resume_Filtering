@@ -1,0 +1,111 @@
+Deba Hazra
+Application Developer - AT&T
+
+Bangalore, Karnataka
+• Bachelor of Computer Science & Engineering with over 8+ years of experience in Software Development. 
+• Presently associated with IBM India Pvt. Ltd, Bangalore as Technical Manager/Technical Lead. 
+• A project engineer with expertise in spearheading numerous projects and ensuring delivery of projects within the time & cost constraints. 
+• Technical proficiency in various software development languages, applications and databases and possess knowledge of Java, J2EE, JSP, Servlets, WebServices, API, XML, SQL, JDBC, XML & Perl Scripting etc. 
+• Excellent communication & interpersonal skills with abilities in resolving complex software issues. 
+• A good team player and individual contributor.
+Work Experience
+Application Developer
+AT&T - US
+April 2009 to Present
+Period: April 2009 - till date 
+OS: Solaris 
+Technologies: Java, J2EE, EJB, WebServices, Servlets, JSP, XML, Oracle, PL/SQL, Perl scripts 
+Tools: RSA, WebSphere, SoapUI 
+Role: Application Developer 
+Work: As Application Developer/Team Lead - Have done Requirement/Change Request Impact Analysis. Review of Functional Specs, feasibility study and solution proposal. Creating High Level & Low Level Design Document. Coding, Build/Deployment in Development environment. Unit Testing, Component Testing, Integration testing and Regression testing. Documentation of code changes. Involved in fixing ORT and trouble management tickets. Working as a SPOC for fixing any kind of production issues raised for my application. 
+ 
+As an Estimation designer I give estimation and prepare time & cost document to project the full time person details and functionalities of incoming projects. 
+ 
+As a Scrum master I take care of all user story discussion and requirement gathering and demo things. 
+ 
+As a Technical Manager I am managing a team of 30. Responsibilities are mentioned below. 
+ 
+• Experience in managing end-to-end SDLC of complex and large project deliveries 
+• Accountable for driving the scope of complex small to mid-size technical deliveries through SDLC into production 
+• Make delivery decisions on technical viability against timeline that will ensure successful delivery 
+• Status Reporting, Program Tracking, Risk and Issues Management 
+• Manage concurrent application releases and multiple engineering teams to deliver quality software releases on time 
+• Experience in Vendor Management and People Management 
+• Work with cross-functional teams and stakeholders with conflicting priorities 
+• Full ownership of programs to ensure they deliver business objectives 
+• Matrix management only with no direct people management 
+• Leading the SCRUM team and make sure it delivers product on time without issues 
+ 
+Associated with DevOps, Cognitive, SWM, Automation & Micro-services and implemented the same for my apps. 
+ 
+Project Description: NGGN-I (Next Generation Global Network - International), also known as USRP-A (Universal Service Request Platform - Access), is a web-based application that supports order processing of Non-US (a.k.a. Most of world "MOW") access orders by the IPC (In-Country Project Coordinator) or SDCOM (Service Delivery Communication Manager) users. 
+ 
+Order processed in NGGN-I is broadly classified as Stand-alone order and Flow-Through order. 
+The stand-alone ordering functionality in NGGN-I allows the users to directly create orders such as Access Circuit, POTS, ISDN lines, AT&T infrastructure equipments in NGGN-I and process them manually. The Flow-through ordering functionality supports processing of the non-US AGN order request created in the interfacing applications (AFO-I, GIOM, GCSM and USRP-IPL) and sent to NGGN-I through the system interfaces. The completed orders (both stand-alone and flow-through orders) are sent to the GAIM (Global Access Inventory Management) for invoicing. 
+ 
+NGGN-I process BT<British Telecom> orders too. So I worked on BT related order processing. 
+ 
+Title: AFO-I - AT&T Front Office International
+Technical Manager/Technical Lead
+IBM India Pvt. Ltd
+October 2008 to Present
+Application Developer
+AT&T - US
+July 2012 to November 2012
+Period: July 2012 - Nov 2012 
+Technologies: Java, ASP, Macro 
+OS: Windows 2000, XP, NT, 95 & 98 
+Tools: Eclipse 
+Role: Application Developer 
+ 
+Work: As application developer - Requirement/Change Request Impact Analysis. Review of Functional Specs, feasibility study and solution proposal. Unit Testing, Integration testing, Regression testing. Documentation of code changes, UAT support and bug fixing. Root cause analysis and code change if necessary. 
+ 
+Project Description: CCP2-Simplified Logon (CCP2-SimpLogon) is a web based application which helps in AT&T Users to use many ABS legacy applications of AT&T with ease. It gives direct access to the legacy applications to registered users with just a single click. It emulates the screens (3270, VT100 etc) of the target applications and shows in an applet. Since, most of the users will be accessing more than one legacy applications; it would be difficult for them to remember the target application's details such as IP address, login information and other credentials. CCP2-SimpLogon stores this information about the target applications for each user and connects them to the target applications as and when required by the user. Since the CCP2-SimpLogon stores the target application's IP addresses and other login details, users are not required to enter them every time. Any user who is authenticated by CSP is eligible to use CCP2-SimpLogon.
+Application Developer
+AT&T - US
+October 2010 to October 2011
+Period: October 2010 - October 2011 
+OS: Solaris 
+Technologies: Java, J2EE, EJB, WebServices, Servlets, JSP, XML, Oracle, PL/SQL, Perl scripts 
+Tools: RSA, WebSphere, SoapUI 
+Role: Application Developer 
+Work: As application developer - Requirement/Change Request Impact Analysis. Review of Functional Specs, feasibility study and solution proposal. Unit Testing, Integration testing, Regression testing. Documentation of code changes, UAT support and bug fixing. Root cause analysis and code change if necessary. 
+ 
+Project Description: The AT&T Front Office-International (AFO-I) application integrates pricing, ordering, creating sales order and provisioning for International Data Services in a single portal. AFO-I supports AT&T Concert Frame Relay Service, International Frame Relay Services, as well as other International Data Services, like Private Line, ATM, and IP. 
+ 
+The AFO-I application resides on the Universal Service Request Platform-International (USRP-I) platform. AFO-I will support the pre-sales/sales service order workflow and USRP-I Workflow Manager will support the post-Sales Customer Care order workflow. 
+ 
+USRP-I is a platform to support Ordering, Provisioning, and Tracking of International Orders on a single platform accessible to both Sales and Customer Care. USRP-I has a single database that will provide Real-time data. 
+ 
+It is also an interfacing application which has xml and web service interface with other AT&T applications 
+ 
+Title: Simplogon - Simplified Logon
+Education
+B. Tech in CSE
+WBUT University
+2007
+Skills
+J2EE (8 years), JSP (8 years), Oracle (8 years), PL/SQL (8 years), RSA (8 years)
+Links
+https://www.linkedin.com/in/deba-prasad-hazra-4453b619/
+Certifications/Licenses
+SCJP
+OCP
+AIX
+AGILE
+Additional Information
+Technical Skills 
+ 
+Domain: Telecom 
+Web Technologies: J2EE, JSP, Servlet, Web Services, XML 
+Scripting Languages: PerlScript, JavaScript and UNIX Shell Scripting (Basic Knowledge) 
+Query Languages: SQL, PL/SQL (Mainly stored procedures design) 
+Framework: Spring MVC 
+Operating System: AIX, Solaris, Windows 
+Web Development Tools: RAD 
+Data Modeling Tools: RSA 
+Application Development Tool: PMD, Clear Case, JUnit, Toad 
+Database: MySQL, Oracle (9i and 10g) 
+Database Connectivity: JDBC 
+Software Engineering Tool: HP Quality Centre, Clear Quest, BMC Remedy, AT&T's in-house tools 
+Per ITUP process, Rally for Agile, Jenkins, TDP

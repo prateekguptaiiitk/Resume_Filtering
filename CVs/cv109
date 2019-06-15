@@ -1,0 +1,197 @@
+Satish Java Groovy Grails
+Application Developer - United Health Group
+
+Newark
+● 6+ years of high end programming and web application development experience. Very good knowledge in Java, J2EE and Design patterns 
+● Comprehensive experience in design, develop, test and deployment of Java, web based Software As a Service application with Object Oriented Technologies 
+● Over 4 years of professional experience and excellent knowledge in Core Java, Multithreading, Collections, JDBC, Servlets, EJB, Struts, Spring, Hibernate, MVC, Web Services (REST/SOAP), Restful APIs, Quartz, and Log4j 
+● Solid front-end developer with experience in various UI technologies including JSP, JSF, JSTL, Facelets, AJAX, HTML, XML, JSON, JavaScript, jQuery, AngularJS, PHP, and CSS 
+● Working experience on open source Frameworks such as Struts, Spring, Hibernate, JSF, Groovy on Grails 
+● Implemented various Design Patterns including MVC, Singleton, Factory, Observer, Prototype, Iterative, and Factory Method 
+● Good working knowledge using Apache Camel to implement solution to follow Enterprise Integration Patterns (EIP) 
+● Proficient in administering Web servers/Application Servers such as Apache Tomcat, JBoss, IBM WebSphere and WebLogic 
+● Well versed in Relational Database Design/Development with Database Mapping, PL/SQL Queries, Stored Procedures and Packages using Oracle, DB2 and MySQL Databases 
+● Extensive experience in Integrated Development Environment (IDE) tools such as Eclipse, JDeveloper, and Spring Tool Suite 
+● Hands on experience working in Agile, Iterative and Waterfall development methodologies 
+● Extensive experience in centralized and distributed version control systems such as SVN, GIT, TFS, Clearcase 
+● Good working knowledge on job scheduling software like autosys 
+● Good working knowledge on unit testing using JUnit, Mock tests, Test Driven Development (TDD), Regression Testing, Code coverage tool like EclEmma, Pair Programming, code reviews using tools like Smart Bear, GitHub pull requests 
+● Handful of experience in build and deploy tools such as Ant, Maven, and Jenkins 
+● Good Working knowledge on Continuous Integration using tools like Jenkins, Platform as a Service (PaaS) using tools like Cloudbees Forge 
+● Good communication skills, interpersonal skills, self-motivated, quick learner, team player
+Work Experience
+Application Developer
+United Health Group - Basking Ridge, NJ
+July 2016 to Present
+Description: As Application developer, worked on tool which displays reports for client to review details of the customers in the form of xmls request and response utilizing Java and Spring MVC building on Maven. On other hand provided support for QA team in fulfilling to test their application by running SQL queries and batch jobs. 
+ 
+Responsibilities: 
+● Understanding and refinement of the functional requirements in conjunction with product management from business team. 
+● Designing a software solution that meets the need of the functional and business requirements. 
+● Worked on Unix/Linux commands to create, edit and update bash scripts in timely manner to reboot servers, update properties and other config changes in SecureCRT tool. 
+● Utilized FTP client tool to transfer files from VM to local machine vice-versa in order to make and update changes on the files. 
+● Utilized SSH client to verify properties, prepare tar files and connect to servers in order to create packages to deploy on ITG tool after the changes made on files. 
+● Managing the iterative software development process utilizing an Agile based methodology. 
+● Developing, debugging, testing in JDeveloper studio utilizing some of Java8 features and deploying the services on JBoss Application Servers. 
+● Used SVN repository to maintain the code as centralized to be accessible 
+● Used crucible for code reviews and bamboo server for CI and build server. 
+● Writing Unit and integration tests 
+● Attend on support calls with client to resolve issues on application. 
+● Update properties and bounce server as requested in respective environments. 
+● Deployed packages on respective environments utilizing HP Management ITG tool. 
+● Writing complex queries in Oracle SQL Developer tool fulfilling the requirements of the applications. 
+● Analyze PL/SQL scripts and execute them as per QA requests in order to proceed further testing of applications. 
+● Attending Working sessions to resolve defects of the application. 
+● Assisting QA and DEV teams while working on applications in running batch requests for different environments. 
+● Worked on tool to generate reports for client validating data of customers. 
+● Reports were generated utilizing Java and Spring MVC technologies. 
+● Utilized Maven in configuring, building, collecting artifacts and deploying project on server. 
+ 
+Technologies: Java, HTML, CSS, Spring, Hibernate, Maven, log4j, SOAP Web Services, Unix/ Linux, XML 
+Server: JBoss, Apache Tomcat 
+Database: Oracle 11g 
+Tools: JBoss Developer Studio, TortoiseSVN, Crucible, SQL Developer, SOAPUI, Maven, JIRA, SecureCRT, Reflection FTP Client, Reflection Secure Client (SSH), VMWare Horizon Client, Redhat Shell, Microsoft Office, HP Management ITG, ServiceNow
+Software Engineer
+MasterCard - New York, NY
+June 2015 to May 2016
+Description: As Software Engineer, worked on creating services for ECommerce websites for processing their payments utilizing Java, Groovy, Grails on Gradle build tool and performed end - to - end testing by deploying on JBoss and testing on url. 
+ 
+Responsibilities: 
+● Understanding and refinement of the functional requirements in conjunction with product management from business team. 
+● Designing a software solution that meets the need of the functional and business requirements. 
+● Worked on Unix/Linux based environment which supports cross platform reference implementation in this project. 
+● Developing, debugging, testing in Intellij using Java and Groovy and deploying the services on JBoss Application Servers for applications of Ecommerce websites 
+● Analyzing and developing new fields on application forms using Grails, HTML, CSS, Javascript, Jquery for web application 
+● Created MicroServices to create payment services like payment, refund, authorization, reversals using Spring boot. 
+● Implemented services in Intellij using JDK1.7, Groovy and Grails Framework and pushing code remotely using git repository. 
+● Generating and monitoring monthly billing reports using MVC design pattern for all the services and applications. 
+● Utilized APIs while developing services using core java packages and object relational mapping. 
+● Writing unit and integration tests using spock and Geb for the classes for testing applications end-to-end. 
+● Developing and testing on databases to store and generate data when required for monthly reports. 
+● Develop a strategy for building on Bamboo servers and deploying the software in a continuous integration environment to check end -to - end performances. 
+● Creating and conducting Code reviews using Crucible to check the functional design of classes. 
+● Responsible for developing the functionality end to end. It includes UI design, Business development in backend, writing Unit Test cases and Integration Testing using Spock 
+● Writing complex SQL queries to fulfill the requirements in order to pull data from database. 
+● Utilized Spring security services for authenticating and authorizing users and used OAuth to access data from other applications. 
+● Utilized Apache camel as messaging technology which joins together messaging start and end points allowing the transference of messages from different sources to different destinations. 
+● Used multithreading to run processes asynchronously simultaneously by multiple users at the same time. 
+● Used collections framework to carry data in a arraylist, hashmap and list while performing unit tests in mocking data. 
+● Used OO concepts to develop monthly reports for the customers. 
+● Used log4J for enabling logging and debugging at the runtime. 
+● Used JSON and XML formats for sending messages and validating fields while retrieving on UI. 
+● Closely worked with product owner and business analyst to fulfill the business requirements. 
+● Clustering the applications and modules on Vertex to test and deploy on application servers 
+● Manage the iterative software development process utilizing an Agile based methodology. 
+● Analyzing, collecting and documenting the details of the applications in the website 
+ 
+Technologies: Groovy, GSP, Java, HTML, CSS, Grails, Spring, Hibernate, Maven, Apache Camel, Quartz, log4j, SOAP/Restful Web Services, OAuth, Spock, TDD, AngularJS, Javascript, Unix/ Linux, JSON, XML 
+Server: JBoss 5 Enterprise Platform, Apache Tomcat 
+Database: H2 DB, PostgreSQL 
+Tools: Groovy Grails Tool-suite, IntelliJ, Git, Crucible, Bamboo CI server, SQL Developer, SQL Tools, SOAPUI, Team Foundation Explorer (TFS), Maven, Java docs, JIRA, Gradle, Pgadmin III, Github, Sourcetree
+Java Developer
+State Compensation Insurance Fund - New York, NY
+September 2013 to April 2015
+Description: As a Java developer, developed web services utilizing Java, Groovy, Grails by building and deploying in CI environment. Provided support for deployments to ensure the applications are configured and deployed effectively. 
+ 
+Responsibilities: 
+● Understanding and refinement of the functional requirements in conjunction with product management. 
+● Designing a software solution that meets the need of the functional and business requirements 
+● Documenting the solution with diagrams, charts, wiki pages, instructions, and application programming interface specifications 
+● Implemented Object oriented programming using Groovy for Java Platform 
+● Used Grails to re-use spring and hibernate under single interface 
+● Implemented productivity features like action, builders and dynamic typing using Groovy. 
+● For writing directory services utilized JNDI API for naming directories. 
+● Used JPA APIs for persisting the objects. 
+● Writing unit tests to both document the code and to ensure the functionality of the written code behaves as expected over time 
+● Analyzed system specifications to determine the Java applications and classes required, and translated system requirements to task specifications. 
+● Utilized JAX-RS APIs for developing web services. 
+● Develop a strategy for building and deploying the software in a continuous integration environment. 
+● Worked on Linux based environment to work around with files and applications. 
+● Provide technical support during production deployments to ensure the solution is configured and deployed as expected 
+● Provide mentoring and mutual learning to team members 
+● Manage the iterative software development process utilizing an Agile based methodology. 
+● Effectively communicate status, issues, and forward-looking architectural concerns to management 
+ 
+Technologies:Java, JSP, HTML, CSS3, Groovy Grails, Spring, Linux, EJB, Struts, Hibernate, Ant, Maven, Quartz, log4j, SOAP/Restful Web Services, JUnit and Oracle BI Publisher 
+Server: JBoss 5 Enterprise Platform 
+Database: Oracle, DB2 
+Tools: Groovy Grails Tool-suite, SQL Developer, SQL Tools, SOAPUI, Team Foundation Explorer (TFS), Javadocs
+Software Engineer
+4S Telecom - Bangalore, Karnataka
+June 2012 to July 2013
+India 
+ 
+Description: As a Software Engineer, worked on developing applications for cellular repeaters to ensure proper coverage for customers. Utilized web services with Spring in order to monitor performance of applications. 
+ 
+Responsibilities: 
+● Implemented Agile Methodology for project Management 
+● Involved in analysis, design and development of MAM and developed specs that include Use Cases, Class Diagrams, Sequence Diagrams and Activity Diagrams. 
+● Utilized J2EE concepts to develop applications for lar enterprises. 
+● Enhance the application using spring framework. 
+● Implemented spring dependency injection. 
+● Followed Annotation driven development. 
+● Developed PL/SQL stored procedures and functions and actively involved in the design of views and triggers in the Oracle database. 
+● Used Spring JDBC to integrate with Oracle DB. 
+● Used Spring AOP for performance monitoring of Web services. 
+● Spring Email and velocity API modules were used for sending e-delivery to policyholders. 
+● Enhancing the view layer of MVC architecture using JSP, jQuery. 
+● Deployed the applications on BEA WebLogic Application Server 
+● Developed JUnit test cases for all the developed modules. 
+● Used log4j for application logging and debugging. 
+ 
+Technologies: Java, J2EE, JSP, spring, JDBC, Ant, log4j, Oracle 10g, jQuery, and JUnit 
+Server: Weblogic 
+Database: Oracle 
+Tools: Eclipse, SQL Developer, SVN, Java docs
+Software Engineer
+HSBC - Hyderabad, ANDHRA PRADESH, IN
+January 2011 to May 2012
+India 
+ 
+Description: As a Software Engineer, utilized Java technologies in developing banking application to fulfill the business requirements of customers in secured manner to create accounts and perform services. 
+ 
+Responsibilities: 
+● Implemented Transfer Funds, Messaging Service Modules using Struts and Tiles Framework with respect to Model-View-Controller (MVC 2) Architecture. 
+● Developed various EJB components like Stateful session, Message Driven Beans to fulfill Business Logic. 
+● Utilized J2EE concepts to build enterprise applications. 
+● Used JMS for reliable and asynchronous exchange of important financial information. 
+● Implemented persistence layer using Hibernate that use POJO classes to represent persistent database tables. 
+● Consumed Web Services using WSDL and SOAP for transferring funds to other financial institutions. 
+● Used XML Parser API such as JAX-RPC in the web services request/response data for marshaling and unmarshalling. 
+● Designed and developed data access layer using Data Access Object (DAO), Session Façade, Business Delegate and Singleton design patterns. 
+● Involved in Database Design and Development. 
+● Developed Stored Procedures, Triggers, Functions and Cursors for efficient usage of data from MYSQL Database. 
+● Used Log4J to capture the log. 
+● Developed test cases and performed unit testing using JMock. 
+● Build application using Ant Scripts. 
+● Used CVS for Version control across common source code used by developers. 
+ 
+Technologies: J2EE, JSP, Struts, EJB, Hibernate, JMS, JNDI, MYSQL, MQ Series, MS Access 2000, HTML, XML, ANT, WSDL, SOAP, SOA, Axis, ANT, Eclipse, Windows. 
+Server: Weblogic 
+Database: Oracle 
+Tools: Eclipse, SQL Developer, Java docs
+Skills
+HTML (4 years), Java (5 years), Oracle (5 years), SOAP (4 years), SQL (5 years)
+Additional Information
+Professional Skills 
+ 
+Languages and Technologies 
+ 
+● Proficient in:Core Java, J2EE, JDBC, Servlets, EJB, SOAP, Restful, log4j, OAuth, OpenID, GORM, JSON, XML, JSP, Facelets, JavaScript, jQuery, AngularJS, HTML, CSS3, PHP, SQL, and PL SQL 
+● Familiar with: C, ML, Message Queues, Quartz, BIPublisher 
+ 
+Frameworks and Libraries 
+ 
+● Proficient in: JSF, JSTL, Struts, Hibernate, Spring 
+ 
+Others 
+ 
+● Databases: Oracle 11g, MySQL, DB2, PostgreSQL 
+● Source Control systems: SVN, GIT, TFS, Clear Case 
+● Build & Continuous Integration: Ant, Maven, Jenkins, Cloud Bees, Bamboo 
+● IDE Using: Eclipse, Spring Tool Suite, JDeveloper, Intellij 
+● Servers used: Apache Tomcat, JBoss, WebLogic, WebSphere 
+● Unit Testing: JUnit, TDD, Integration 
+● Unit Test Coverage: EclEmma, Cobertura 
+● Code Review: Smart Bear, Crucible 
+● Software Development Methodologies: Scrum, Iterative, Waterfall, Devops

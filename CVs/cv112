@@ -1,0 +1,69 @@
+Prasanna Joshi
+Bangalore, Karnataka
+♦ Over two years of IT industry experience encompassing a wide range of skill set, roles and industry verticals. 
+♦ Specialized in the areas of design, development, testing and implementation of web based enterprise applications using Java Technology 
+♦ Basic exposure to Micro Service based development using DOCKER and Spring Boot. 
+♦ Proficient in analyzing and translating business requirements to technical requirements and architecture. 
+♦ Strong database skills, Object Oriented Programming and development knowledge 
+♦ Proficient in Agile mode of project work. 
+♦ Executed software projects for Telecom based industry 
+♦ Good communication skills, interpersonal skills, self-motivated, quick learner, team player. 
+IT PROFICIENCY 
+• Key Skill: Byte Code Manipulation, Design Patterns, 
+Multithreading, JVM Tuning and performance monitoring 
+• Java EE Web Component API: Servlet 3, JSP, JSTL 
+• JAVA Web Service: SOAP 
+• Java EE Resource API: JDBC, JMS. 
+• Framework: Spring 4, AspectJ, Spring Boot, Spring Data 
+• ORM Framework: Hibernate 4.0 
+• Web Development: JQuery, HTML, JavaScript, CSS 
+• Unit Testing: JUnit 3 
+• Applicator Server: Tomcat 7.0 
+• IDE: Eclipse 4.X 
+• Database: Oracle 10g, PL/SQL, SQL 
+• Other Tool/Frameworks: Apache CXF, Active MQ, JAXB 2.0 
+• Unix/Linux: Basic shell scripting 
+• Performance tuning: Jconsole, MAT, HeapDump anaylsis, Threaddump analysis 
+Visualvm
+Work Experience
+Application Developer
+IBM - Bangalore, Karnataka
+February 2015 to Present
+Current project: 
+ 
+Working currently in sales part for US based telecom client having end to end chain of application starting from sales, order handoff, provisioning, service delivery and billing. The sales mainly includes information gathering from new/exiting user about service offered by our telecom client. The web based application used for getting exact and details information about service which includes internet service as well as VoiceoverIP services. 
+The AGILE based development in application includes adding extra features which is currently not supported and enhancing the current ones. 
+ 
+Role and Responsibilities: 
+• Working as Application Developer to implement the Real Time projects into client system with Quality and make sure the business data flows to provisioning & billing IT systems. 
+• Design and implement new architecture for provisioning customer requests in real time for various client services. 
+• Responsible to work with Business Process Engineers for Business Scenario implementation. 
+• Requirements gathering, communicating with end-users, understanding user view and pain-points and gaps in existing implementation. 
+• Brainstorming on various possible solutions and coming up with design and computing capacity requirement collaborating with team to finalize concrete implementation design. 
+• Planning test strategy and coding automated test cases. Review test cases and test results for Maintenance request and project changes. Get them entered into the Defect tracking tool. 
+• Providing knowledge transfer sessions (both technical and business related) for newer team members to bring them up to speed. Mentoring individual team members in project related as well as corporate way of conducting business. 
+• Attending team as well as client demo meetings and providing inputs for smooth working of the system. Coordinate the onsite and offshore activities through meetings, sharing works and meet deadlines for projects. 
+• Providing updates on a day to day basis on design, development and testing progress for Agile mode projects. 
+• Creating Application Design documents for AGILE mode projects and preparing test case documents for the same. 
+ 
+1. MicroService development: 
+Currently working under team to develop simple REST based Micro service for current project using Docker technology. The aim is to build simple Micro Service using Spring Boot which will be hosted on docker container. 
+ 
+2. Logs Based Analytics 
+Developed simple GUI based analytics application for own application which probably will be used in End to End. The front end was developed using Bootstrap, JQuery and React JS. On server side Spring 4 was used. The aim behind developing application was need from client for central portal where client can get current status of his order and he will get to know where order is being stuck. The results are generated from fetching logs directly from server and parsing them according to user's input. Additional to that REST based simple web service was also implemented for interacting with partner systems. 
+ 
+3. Decision Making Implementation for orders: 
+For service orders to be route through automated system and not by legacy system, requirement came for development of decision based admin portal where admin can go and configure gates (decides flow) 
+With this implementation client order will be routed to automated flow throughout Sales, order handoff, 
+Provisioning, Service delivery and Billing. Abstract Factory based design pattern was used to 
+Implement this project 
+ 
+EDAUCATION
+Education
+Shivaji University Kolhapur, Maharashtra
+2014
+B.E in Computer Science
+College state board Maharashtra
+2010
+High School State Board Of Maharashtra
+2008
