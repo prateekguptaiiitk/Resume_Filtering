@@ -1,2 +1,2 @@
 # Resume_Classifier
-A resume classifier based on natural language processing
+A resume ranking system based on job description using natural language processing in Python.
