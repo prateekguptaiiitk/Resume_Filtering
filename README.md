@@ -17,7 +17,6 @@ The main feature of the current project is that it searches the entire `resume` 
 │   ├── collectCV.py
 │   └── jd.csv
 ├── Model
-│   ├── Load into Spacy.ipynb
 │   ├── Model_Training.ipynb
 │   ├── Sentence_Extraction.ipynb
 │   ├── paragraph_extraction_from_posts.ipynb
@@ -48,7 +47,6 @@ The main feature of the current project is that it searches the entire `resume` 
 
 ## [Model](https://github.com/prateekguptaiiitk/Resume_Classifier/tree/develop/Model)
 
-- **Load into Spacy.ipynb :** Notebook to load the trained model to spacy.
 - **Model_Training.ipynb :** Notebook to train the word2vec model using gensim. The model was saved in ```./model/``` subdirectory (locally). 
 - **Sentence_Extraction.ipynb :** Notebook for extracting cleaned sentences from extracted paragraphs.
 - **paragraph_extraction_from_posts.ipynb :** Notebook for extracting paragraphs from `Posts.xml`
