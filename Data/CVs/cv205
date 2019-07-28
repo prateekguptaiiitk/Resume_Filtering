@@ -1,0 +1,172 @@
+shashank java developer
+Sr. Java Developer - Carlson Wagonlit, Online Air Ticket Refund Tracking
+
+Denver, CO
+• Over all 7+ Years of professional IT experience in analysis, design, development, testing, delivery and production support of application software and Expertise in Industrial, Healthcare, Financial, Marketingand Insurance Domains. 
+• Working Experience in SDLC by using Waterfall, Agile (Scrum) and Iterative development. 
+• In-depth knowledge and experience in Java, J2EE, Servlets, JSP, HTML, JDBC, JNDI, jQuery, MVC, Struts, Spring MVC, SpringBoot, OpenJPA and Hibernate. 
+• Experienced in various Java and J2EE Frameworks such as Spring MVC Framework, Struts, Hibernate, MQ Series, JMS, JSTL. 
+• Experience working with JavaScript MVC frameworks like PolymerJs, AngularJS. 
+• Experienced in developing MVC framework based websites using Struts 1.0, 2.0, Spring MVC. 
+• Experience in building web applications using Spring Framework features like MVC (Model View Controller), AOP (Aspect Oriented Programming), AspectJ, IOC (Inversion Of Control), DAO (Data Access Object) and template classes. 
+• Expertise in Object-relational mapping (ORM) using Hibernate, Ibatis. 
+• Experience in designing and developing Service Oriented Architecture (SOA) using SOAP and REST Web Services. 
+• Experience in Integrating Spring with in SOAP and RESTWeb Services using Jersey framework. 
+• Familiar with web/application servers like WebSphere, WebLogic, JBoss, and Tomcat Server. 
+• Experience in using ANT, Maven and Gradle for build automation. 
+• Hands on experience with HTML, CSS, JavaScript, AJAX, jQuery, Polymer. 
+• Configured and scheduled jobs for multiple projects on Jenkins. 
+• Hands-on knowledge JUnit, JMETER, J-Web Unit, TestNG, Log4j, Swagger and Selenium WebDriver. 
+• Good knowledge in Design Patterns like MVC, Singleton, Factory, Abstract Factory, Business Delegate, DAO, Service Locator and Session Facade. 
+• Experienced in developing UML diagrams like Use Case Diagrams and Class diagrams, Sequence Diagrams and Behavior Diagrams. 
+• Good Knowledge of using IDE Tools like Eclipse, IntelliJ, NetBeans6, MyEclipse 5.5, Rational Application Developer (RAD) and Oracle JDeveloper for Java/J2EE application development. 
+• Skillful in full life-cycle development using Object Oriented Methodologies/Programming (OOP's) 
+• Experience in using version control and configuration management tools like Subversion, GitHub, CVS and Clear Case. 
+• Expertise in database modeling, administration and development using SQL and PL/SQL in Oracle (8i, 9i and 10g) and SQL Server environments. 
+• Ability to develop solutions based on both Relational and NoSQL database systems (Mongo DB) 
+• Strong Analytical, Problem Solving, Debugging and Interpersonal skills with excellent understanding of system development metrics, techniques and tools. Adaptable to new technologies in a short span of time and implementing them in real-time projects. Self-motivated individual and fast paced learner.
+Work Experience
+Sr. Java Developer
+Carlson Wagonlit, Online Air Ticket Refund Tracking - Denver, CO
+July 2016 to Present
+Description: This is a travel domain application (on MVC pattern) for Carlson Wagonlit Travel. The objective of this application is to provide facility of refund for air tickets. When a user wants to refund a ticket, user register himself and submit his request for ticket refund, system generates a receipt for user, which contains all the details of ticket and receipt number. User can monitor his refund of tickets using receipt number. Other part of this application is for administrator to link user information to back office support application for refund and generate invoice etc. 
+Responsibilities: 
+• Involved in Requirement gathering, Analysis, Preparing Functional Specifications, and Technical 
+• Specifications according to their requirements. 
+• Used spring's IOC, AOP and auto wiring concepts in developing the application. 
+• Used Spring Container to performed dependency injection. 
+• Used Hibernate to map the database with POJO using hbm.xml files. 
+• Designed the Architecture of the project as per MVC standards. 
+• Used Struts MVC for the developing funds module and mortgage module. 
+• Deployed the application on JBOSS application server. 
+• Used AJAX technology for creating interactive Web Applications. 
+• Developed SOAP message envelopes and headers using WSDL. 
+• Developed JSP (Java Server Pages) for orders module and Customer Service Department. 
+• Used Maven for build code. 
+• Used PL/SQL, Stored Procedures for handling Oracle database. 
+• Involved in Integration of all the modules, deploying them on the Application server, and use JMS. 
+• Involved in bug fixing of various modules in the application that raised by the testing team. 
+ 
+Environment: Java (JDK 1.6), J2EE, Spring 3.0, Hibernate, Web services (SOAP & RESTFUL), Jersey, JAXB, Log4j, Oracle, SVN, Eclipse, JUnit, JSP, ANT, HTML, CSS, JSON, XML, Tomcat
+Java Web Developer
+Delta Dental Insurance
+January 2015 to May 2016
+Description: The objective of this project is to design and develop modules. Delta Dental had a legacy web application called Access Management Tool (AMT) to create and manage their business clients (i.e. employers) accounts, create and manage their users. This is an internal application for Delta Dental and their administrators use this application. I was part of the team in building completely new UI application to replace the existing application. 
+ 
+Responsibilities: 
+• Involved in various phases of Software Development Life Cycle (SDLC) of the application like Requirement gathering Design, Analysis and Code development. 
+• Developed a Prototype of the application and demonstrated to business users to verify the application functionality. 
+• Attended everyday Enterprise workflow Stand-Up meeting to provide status, thus implementing SOA and Agile (Scrum) Methodology with Test Driven Development (TDD) 
+• Developed and implemented the DAO design patterns including JSP, Servlets, Form Beans (Struts), DAO classes and other Java API's. 
+• Implemented dynamic web interface using AJAX and user authentication through LDAP. 
+• Developed JSP fragments for control of the business processes in the middle-tier and did its integration. 
+• Used Maven to compile projects within the IDE, and to set the class path for code completion, highlighting compiler errors etc. 
+• Used JSON for storing and exchanging test information, as it is smaller and easier to parse compared to XML. 
+• Created and deployed web pages using HTML, CSS, JSP, JavaScript and jQuery. 
+• Integrated usage of CRUD operations performed Inner/Outer joins used stored procedures, stored functions and cursors using Oracle PL/SQL. 
+• Each element on the page is created as a template to maintain the modularity and make it reusable for other fields in different states. 
+• Created custom directives in AngularJS for re-usable components. 
+• Used IBM Rational Application Developer 8.0 with WebSphere Application Server v6.1. 
+• Written JUnit Test cases to Perform unit testing eventually to have defect free application code. 
+• Built custom validations and used Angular validations before submitting it to backend. 
+• Worked on creating responsive website for smart devices using Bootstrap, AngularJS to develop a single page, mobile-first, cross-device/cross-browser Web application 
+• Worked with Cross-functional team to develop timely changes and to meet the Design requirements. 
+• Used ANT automated build scripts to compile and package the application and implemented Log4j for the project. 
+Environment: Java version 1.8, Java/J2EE, JSP, AngularJS, Bootstrap, AJAX, JSON, WebSphere Application Server V6.1, OOAD, Restful, SOA, Agile, Scrum, Eclipse, Maven, JUnit, ANT, TDD, Oracle PL/SQL, Log4j.
+Java Developer
+Optima Health, WI
+November 2013 to December 2014
+Description: Developed web application for brokers of small market health insurance for group or individual customers. Basic functionality was to get customer physical address, marital status, family health and their individual health information. After all the required information provided by customers application would figure out the best available health plan in small market and output to customers for their selection. 
+ 
+Responsibilities: 
+• Developed application using Agile Methodology 
+• Responsible for creating functional design documents, technical documents, flow charts. 
+• Developed Spring Controllers, Service Components, DAOs, Web Services and UI Integration for processing the member request for two modules 
+• Developed the DAO layer using the Hibernate annotations and configuration files 
+• Used Spring MVC Framework Dependency Injection for integrating various Java Components 
+• Consumed Enterprise Web Services & generated client using Jersey and Axis Frameworks 
+• Helped UI to integrate the java beans data using JSTL, Spring tags 
+• Used Maven Scripts to build and deploy applications and worked closely with build team to resolve CI, Maven site and Report Issues 
+• Unit Testing Java code using JUnit 4, JMETER, and Integrating with Jenkins. 
+• Wrote SQL queries and Stored Procedures for interacting with the Oracle database. 
+• Involved in testing and deployment of the application on WebLogic Application Server during integration and QA testing phase 
+• Was part of production support team to resolve the production incidents 
+• Co-ordinate with the QA lead for development of test plan, test cases, test code and actual testing responsible for defects allocation and those defects are resolved 
+• Documentation of common problems prior to go-live and while actively in a Production Support role. 
+ 
+Environment: Java, J2EE, JSP, Servlets, JDBC, XML, Spring 3.x, Hibernate, Web Services, SOAP, Restful, WSDL, Jersey, Jackson, Axis, SOAP UI, Eclipse, Oracle11, TOAD, JUNIT, SQL, PL/SQL, JSTL, Spring Tags, HTML, CSS, ANT, Maven, Jenkin, UML, TOAD, WebLogic, Linux.
+Java Programmer
+Bajaj Allianz Life Insurance
+November 2010 to October 2012
+Description: Bajaj Allianz Life Insurance offers a range of insurance products for financial planning and life insurance. All of them contain different terms depending on policy and pay benefit if anyone dies during the term and has protection for each premium. I also dealt with team leaders of various underwriting departments who needed help with reinsuring a form of non-proportional reinsurance that provides coverage for losses resulting from an accident or natural disaster involving more than one insured. 
+ 
+Responsibilities: 
+• Involved in preparation of functional definition documents and Involved in the discussions with business users, testing team to finalize the technical design documents. 
+ 
+• Enhanced the Web Application using Struts. 
+ 
+• Created business logic and application in Struts Framework using JSP, and Servlets. 
+ 
+• Documented the code using Java doc style comments. 
+ 
+• Wrote Client side validation using Struts Validate framework and JavaScript. 
+ 
+• Wrote unit test cases for different modules and resolved the test findings. 
+ 
+• Implemented SOAP using Web services to communicate with other systems. 
+ 
+• Wrote JSPs, Servlets and deployed them on WebLogic Application server. 
+ 
+• Developed automated Build files using Maven. 
+ 
+• Used Subversion for version control and log4j for logging errors. 
+ 
+• Wrote Oracle PL/SQL Stored procedures, triggers. 
+ 
+• Helped production support team to solve trouble reports 
+ 
+• Involved in Release Management and Deployment Process. 
+ 
+Environment: Java, J2EE, Struts, JSP, Servlets, JavaScript, Hibernate, SOAP, WebLogic, Log4j, Maven, CVS, PL/SQL, Oracle, Windows
+Java Developer
+Valuelabs
+September 2008 to October 2010
+Description:This module is for compliant registration. There are two categories of user, one is the Administrator and other is normal user. Administrator can create new users, Edit user profiles, Delete the users and Check customer order status. Normal users have a unique ID, by this ID they can submit their Complaint. Complaint can be Packing Related, Quality Related, Documentation related etc. Administrator can check the status and type of complaint and forward it to related departments. Administrator can see the Complaint status in various ways such as by date or by name. They can also see monthly or weekly complaint reports. 
+Responsibilities: 
+• Developed JSP for UI and Java classes for business logic. 
+• Utilized JavaScript for client side validation. 
+• Utilized Oracle PL/SQL for database operations using JDBC API. 
+• Implemented DAO for Oracle 8i for DML Operations like Insert, Update, Delete the records. 
+• Involved in the design, development and deployment of the Application using Java/J2EE Technologies. 
+• Developed Application in Struts Framework using MVC architecture. 
+• Customizing all the JSP pages with same look and feel using Tiles, CSS (Cascading Style Sheets) 
+• Designed the user interface of the application using HTML5, CSS3, JavaScript, and AJAX. 
+• Involved in coding for the presentation layer using Apache Struts, XML and JavaScript. 
+• Created Action Forms and Action classes for the modules. 
+• Implemented Connection Pooling for database connectivity, transaction and retrieval queries using SQL with the backend Database. 
+• Involved in testing and deployment of the application on Web Logic Application Server during integration. 
+• Designed, Peer Reviewed and prioritized Test Cases. 
+• Involved in Functional Testing, Integration Testing, End-To-End testing, Sanity testing, Regression testing and also involved in UAT and UAT support. 
+• ConfiguredSelenium WebDriver, TestNG, Ant tool and created Selenium automation scripts in java. 
+• Used JIRA as a defect tracking tool. 
+• Created the test pipelines by using Jenkins and Maven. 
+ 
+Environment:Java/J2EE, JSP, Servlets, Struts 1.1, Spring, JUnit, Eclipse, JSP, JavaBeans, JavaScript, Tomcat 4.1, Oracle 8i, XML, XSLT, HTML/DHTML/XHTML, CSS, PL/SQL, Selenium, JIRA, Jenkins, Maven.
+Additional Information
+Technical Skills: 
+Programming Languages Java, J2EE, Shell Programing. 
+Java/J2EE Technologies 
+Servlets, JSP 1.2/2.0, EJB 2.0/3.0, JDBC, Struts 1.0/2.0, Spring 3.5/3.0, Spring-AOP, AspectJ, Transaction Management, Hibernate, Ibatis and Custom Java Tag Library. 
+ 
+Web Development HTML, CSS, Java Script, AJAX, AngularJS, Bootstrap 2.x/3. 
+XML/Web Services XML, XSD, WSDL, DOM, XMLBeans, JAX-WS SOAP, JAX-RS RESTful, JSON. 
+Application/Web Servers IBM Web Sphere 6.x/5.x, WebLogic 12.x, Apache Tomcat 6.x/7.x, Jenkins 
+Methodologies/ Design Patterns Agile, MVC, DAO, Factory pattern, Singleton, Delegation. 
+Rational Databases Oracle 8i/9i/10g, MS SQL Server […] PostgreSQL, Sybase, MySQL, DB2. 
+NoSQL Databases Exposure to Mongo DB 
+IDEs Eclipse, IntelliJ, RAD, NetBeans, MyEclipse, Oracle jDeveloper Studio […] 
+Build Automation and Other Tools Ant, Maven, Gradle, JENKINS, Firebug. 
+Testing and Logging Frameworks JUnit, Log4J. 
+Version Controls SVN, GitHub, CVS 
+ 
+Operating Systems Windows, Red Hat Linux, Mac OS.

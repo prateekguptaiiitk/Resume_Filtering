@@ -1,0 +1,274 @@
+Abhishek Rajput
+Room no.  A-215 Hall X,
+Mobile:  +91-9451397574
+Indian Institute of Technology, Kanpur,
+E-Mail:  arajput.cse@gmail.com
+UP, India.
+Alternate:  arajput@cse.iitk.ac.in
+RESERACH INTERESTS
+•
+Parallel Systems & Programming Languages
+•
+Compilers, High Performance Computing
+EDUCATION
+Year
+Degree
+Institute
+Performance
+2011(Expected)
+B.Tech./M.Tech.  Dual Degree
+IIT Kanpur
+B.Tech.  CPI 8.4/10.0
+Computer Science & Engineering
+M.Tech.  CPI 9.2/10.0
+2005
+ISC (class XII)
+CMS, Lucknow
+95.75 %
+2003
+ICSE (Class X)
+CMS, Lucknow
+93.60 %
+STANDRDIZED TEST SCORES
+•
+Graduate Record Examination:
+Verbal:  660/800 Quantitative:  800/800 Analytical:  4.0/6.0
+•
+TOEFL Score:
+105 [Reading:  27, Listening:  25, Speaking:  24, Writing:  29]
+WORKSHOPS/CONFERENCES
+TiC’10:  Third International School on Trends in Concurrency
+23-30 May 2010
+Description
+:
+IIIT Bangalore
+I represented IIT Kanpur along with 2 other students. The school targeted at bringing together outstanding researchers
+from academia, from industry & students to discuss current research and future trends in concurrent systems design
+and implementation.
+IWDS: Second International Workshop in Distributed Systems
+27-29 November 2010
+Description
+:
+IIT Kanpur
+The abstract of the thesis work has been accepted for presentation in the workshop.  I will be presenting the current
+results & research work amongst other researchers and students working in the area.
+RESEARCH EXPERIENCE
+A flow-based programming language for Multi-core architecture
+January 2010 - Till Date
+Masters Thesis (Work in Progress)
+Dept.  of CSE, IITK
+•
+Advisor:
+Dr.  R.K.Ghosh & Prof.  Harish Karnick
+•
+Description:
+The thesis project is aimed at the design & development of a new shared-memory parallel pro-
+gramming language for the current and future generations of many-core machines.
+A  programmer  expresses  problems  inherently  as  an  acyclic  sequence  of  computations  resulting  in  the
+formation of a computation DAG. A DAG diffusion model explicitly exposes the available parallelism at runtime.
+Recursive architecturing
+& other proposed constructs achieve the construction rapidly & elegantly. A combination
+of Cilk style programming, flow based execution and
+promise
+based approach is undertaken.  The programmer
+works with persistent stateful entities in a 2D space, whose structure is dynamic and which registers the results
+to  the  outside  world  as
+signals
+.   The  multi-phase  processing  approach  couples  non-deterministic  construction
+with deterministic outcomes.  The language looks promising for graph-based and non-deterministic problems.
+Other flow-based problems are being studied.  The work is still under progress.
+Cholesky Factorization for Parallel Architectures
+July 2010 - November 2010
+CS738:  Advanced Compiler Optimization
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  Sanjeev K. Aggarwal
+•
+Description:
+The project aimed to exploit the innate parallelism available in the algorithm for Cholesky Fac-
+torization of a symmetric positive-definite matrix to achieve higher speedups.  A blocked algorithm as available
+in LAPACK has been implemented using Level-3 basic linear algebra operations in square blocked pack (SBP)
+format & optimized using compiler optimization techniques.  The performance was compared on multiple hard-
+wares using CUDA (GPGPU) & Intel TBB (2,4,16,24 core).  Results show that parallelizing a blocked algorithm
+has no significant benefits over parallelizing the corresponding naıve sequential version.
+A new digital watermarking scheme for 3D triangular mesh models
+December 2009 - May 2010
+CS698E: Digital Watermarking & Steganography
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  Phalguni Gupta
+•
+Description:
+The  project  was  targeted  to  come  up  with  a  reversible  watermark  embedding  scheme  for  3D-
+Triangular mesh models.  The final scheme that was designed integrates a reversible watermarking scheme for 2D
+Vector data together with a 3D watermarking scheme for mesh-models in a novel fashion resulting in increased
+capacity at slight/acceptable visual distortion in terms of PSNR. The approach was to replicate watermarking
+sequence into the range images of multiple Voronoi patches of the mesh.
+Object Tracking Using SIFT features
+June 2009 - Nov 2009
+CS676:  Computer Vision & Image Processing
+Dept.  of CSE, IITK
+•
+Advisor:
+Dr.  Simant Dubey
+•
+Description:
+The project investigated the accuracy of using Scale Invariant Feature Transform(SIFT) features
+as a similarity measure for object tracking of a previously unknown object.  The proposed strategy outperforms
+Camshift algorithm & Lucas-Kanade optical flow methods in most scenarios, however certain number of SIFT
+features are required to be present.  A Kalman filter was used for Gaussian noise-reduction.
+OTHER COURSE PROJECTS
+Compiler Design for a subset of C++ language
+December 2008 - May 2009
+CS335:  Compiler Design
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  Sanjeev K. Aggarwal
+•
+Description:
+The aim of the project was to develop a compiler for a subset of C++ language.  The final working
+compiler could tackle primitive data types, dynamic scoping using hierarchical symbol table structure, pointer
+arithmetic, type coercion, loops, conditionals, functions and recursion.
+File Compressor & Archiver
+December 2008 - May 2009
+CS653:  Functional Programming
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  Piyush P. Kurur
+•
+Description:
+The project implemented adaptive Huffman encoding(Vitter Algorithm), Burrrows-Wheeler trans-
+form and LZ encoding schemes in a pipelined way to achieve high compression ratio for files.  The project was
+built in the functional language Haskell.  The project stands successfully completed with good compression ratios
+and performance.
+Comparison of TCP performance over WLAN
+December 2009 - May 2010
+CS634:  Mobile Computing
+Dept.  of CSE, IITK
+•
+Advisor:
+Dr.  R.K.Ghosh
+•
+Description:
+The project compares and studies theoretically the behavior of various TCP protocols over wireless
+LAN. Simulations were done for a selected few protocols.  Traffic conditions, packet error rates, transmissions
+rates were simulated for some WLAN protocols.  SNOOP protocol was found to be the best performing among
+others.
+Peer to Peer File sharing Client
+July 2008 - November 2008
+CS425:  Computer Networks
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  Harish Karnick
+•
+Description:
+The project was aimed at implementing a bit-torrent like peer-to-peer client for LAN. The project
+implements  some  of  the  specifications  mentioned  in  the  original  P2P  protocol  by  Bram  Cohem.   The  project
+successfully achieves fast and reliable file sharing using SHA-1 hash algorithm, handling congestion control.
+FRUD: Framework for Distributed Computing of Unstructured Data
+December 2009 - May 2010
+CS455:  Software Engineering
+Dept.  of CSE, IITK
+•
+Advisor:
+Prof.  T.V. Prabhakar
+•
+Description:
+The project was about development, documentation and maintenance of a library for distributed
+computing of large quantities of data, akin to Hadoop and Map-Reduce.  Java was chosen to develop the library.
+File Sharing Search Engine
+December 2008 - May 2009
+CS315:  Principles of Database Management
+Dept.  of CSE, IITK
+•
+Advisor:
+Dr.  Arnab Bhattacharya.
+•
+Description:
+The project provides users an account-based access to a on online storage space.  The web-based
+interface provides different levels of access to the resources on the server based on the class(paid/trial) of the
+user.   A  user  can  upload/download  and  search  for  desired  files.   A  relational  database  is  used  for  storing  the
+account information.
+INTERNSHIP/WORK EXPERIENCE
+Microsoft India Development Center
+May 2009 - July 2009
+•
+Intern Position:
+:  Program Manager + Software Development Engineer
+•
+Mentor:
+Mr.  Gautam Bajekal
+•
+Description:
+:  I worked with the Office Communicator team at MSIDC, working as a Program Manager.  The
+task  was  to  co-ordinate,  propose,  develop,  finalize  and  implement  a  ”Silverlight  Based  framework  for  Rapid
+Prototyping of web-based Office Communicator(OC)”.  Various In-meeting and Out-of-Meeting scenarios were
+developed, demonstrated and discussed amongst a team of senior program managers.  The internship provided
+exposure to a healthy team-based work environment and insight of the industrial work-culture.
+TALKS/LECTURES
+Software Transactional Memory (STM)
+July 2010 - November 2010
+CS738:  Advanced Compiler Optimizations
+•
+I gave a lecture on Software Transactional Memory.  The lecture covers the basics,  optimistic vs.  pessimistic
+execution modes, write-buffering vs in-place buffering, strong vs.  weak isolation, and more.
+High Dynamic Range Imaging (HDRI)
+July 2009 - November 2009
+CS76:  Computer Vision & Image Processiong
+•
+I gave a lecture explaining the HDRI approach covering the entire process of capturing multiple LDR images,
+creating HDR image from the set of these LDR images, storing them in HDR format and rendering these to a
+LDR display using tone mapping.
+TEACHING EXPERIENCE
+Fundamentals of Computing (ESC101)
+July 2010 - November 2010
+Description
+:  I
+tutored
+a  batch  of  40  freshmen  in  the  ESC101  course.   A  tutor  designs  problems  for  the  lab  tests
+and exams, teaches students and arranges tutorials to clear students doubts.  I also provided students with additional
+weekly notes
+, covering various topics spread across the duration of a semester, to assist them with the lecture materials
+and provide them a richer, in-depth and a broader learning experience of the C programming language.
+SCHOLASTIC ACHIEVEMENTS
+•
+Secured All India Rank 373 in the Joint Entrance Examination 2006 conducted by IITs with a percentile close
+to 99.9
+•
+Awarded scholarship through National Talent Search Examination(2003).
+•
+Secured  rank  1  in  my  branch  &  was  in  the  top  3  students  of  my  school  (across  20  branches)  in  the  ISC  XII
+Examination held in 2005.
+•
+Secured rank 3 amongst the students of CMS Mahanagar branch in the ICSE X Examination held in 2003.
+SKILLS
+•
+ProgrammingLanguages
+:C, C++, Java, Haskell, Oz, ML, Python, VHDL
+•
+Platform
+:  Windows, Linux
+•
+Applications
+:  Matlab, MS Office, Weka
+•
+Tools
+/
+API
+:  Intel TBB, CUDA programming, OpenMP, Intel Developer & Debugger tools
+EXTRA CURRICULAR
+•
+I performed as a rhythm guitarist in a band for 3 songs (western and Indian) in front of the Microsoft audience
+at the ”Microsoft Intern Cultural Evening” during my internship
+•
+Assisted organizing the Intern Cultural Evening at Microsoft
+•
+Volunteer, Hindi Literary Society, Antaragni 2006
+•
+Member, ID Cell, Counselling Service 2008
+•

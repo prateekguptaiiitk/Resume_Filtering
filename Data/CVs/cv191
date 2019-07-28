@@ -1,0 +1,161 @@
+Jay Kavathiya
+Front-end Developer - General Electric
+
+New Orleans
+• 6 plus years of experience in Web Application Development with a focus on Front-end Development. 
+• Proficiency in Software Development Life Cycle (SDLC) from requirements analysis, design development, testing and documentation. 
+• Hands on experience in Front-end Web-Design and Development using HTML5, CSS3, JavaScript, JavaScript OOP, jQuery, AJAX. 
+• Proficient in JavaScript Frameworks like AngularJS 1.x to develop responsive Single Page Application (SPA) and Dynamic Web Applications using MVC Architecture and created POC's and initial integration for Angular 2.0. 
+• Solid Experience of web service using Ajax for processing JSON/XML between front-end and back-end. 
+• Strong Experience in Twitter Bootstrap 3 framework and Media Query to create responsive websites. 
+• Experience with CSS3 preprocessors SASS and LESS to archive writing reusable, maintainable and extensible codes in CSS. 
+• Worked in TDD (Test Driven Development) and used Jasmine as testing framework and used Karma as a test runner. 
+• Experienced in Design, Development of web-based Applications using Apache Tomcat 7.x/8.x Server. 
+• Hands-on experience in handling response data from RESTful Web Services using XML, JSON. 
+• Experience working with debudding tools like Firebug, Firebug Lite, Chrome dev tool and Web Inspector. 
+• Used Bower as Web-tools for successfully implementing the dependencies. 
+• Used Gulp and Grunt as task-runner. 
+• Used Agile Development Methodology and Scrum team structure for Development process. 
+• Expertise in version control tools like GIT, SVN to manage and control software development and project management tools like JIRA and Rally.
+Work Experience
+Front-end Developer
+General Electric - New Orleans, LA
+November 2016 to Present
+General Electric is an American multinational company which has different types of segments which are Digital, Power, Aviation, Transportation, Health Care, etc. GE provides unique platform called Predix which is the industrial platform that connects different types of organizations through digital world. 
+ 
+Responsibilities: 
+• Responsible for implementation of the best possible solution to build the User Interface component, designs and testing. 
+• Responsible for creating reusable components by using the AngularJS 1.5 components practice with ES2015 module pattern. 
+• Implementing the responsive design to make User Interface compatible with iOS devices and web browsers with the help of Bootstrap and SASS. 
+• As a part of TDD development, responsible to create the unit test cases for all the front-end angular components, services, filters, and controller by using KARMA and JASMINE. 
+• As a part of Agile workflow, responsible to review the acceptance criteria and user stories through RALLY and do development according to assigned tasks and keep track of latest requirements and user stories. 
+• Deployment of the application using Jenkins Jobs. 
+• Creation of GitHub pull requests to get approval from other team members and responsible to review other team member's pull requests. 
+• Managed project modules through task runner Grunt and used bower to include the project dependencies and used Node Package Manger to install node modules. 
+• As the application is offline first application, responsible for synchronization between CouchbaseLite and Couchbase server for the iOS devices. 
+• Responsible to make proper API and Service call to Predix Cloud Platform. 
+Job Description: 
+• Working on one of the GE's ambitious project called Field Vision (Offline First Application) which is the internal project for GE's different business unit in which our team is integral part of the module called Turnover Reports and Report-Dashboard. 
+• As a front-end developer, created the prototype, design configurations and gathered the requirements to make user interface efficient. 
+• Implemented the modules initial setups and configuration with the help of Angular UI router and used existing angular component and services to make code better. 
+• Participate in daily meetings and stand ups to gather updates, project progress and track them in the Rally (Agile Software) 
+• Responsible for creating the components using JavaScript module pattern. 
+• Create detail documentation and proof of concepts for the every component of our module for migrating it to Angular 2. 
+• Creation of Couchbase custom documents and make synchronization happened of that documents to the Couchbase Server. 
+• Responsible for making test cases using Jasmine and Karma as part of Test Driven Development.
+UI Developer
+Ameriprise - Minneapolis, MN
+January 2016 to October 2016
+Ameriprise Financial, Inc. is an American diversified financial services company. Ameriprise Financial engages in business through its subsidiaries, providing financial planning, products and services, including wealth management, asset management, insurance, annuities and estate planning. 
+Responsibilities: 
+• Developed creative solutions for challenging client requirements while working in cross functional team settings and explain technical needs. 
+• Responsible for designing dynamic and cross browser compatible pages using HTML5, CSS3, jQuery, AngularJS and JavaScript. 
+• Created custom Angular Directives for dynamic view via isolate scopes for rendering necessary details in the panel. 
+• Used CSS preprocessor SASS to make web design stable and powerful. 
+• Creating Controllers, Factories and Services for optimizing the AngularJS application code and also to manage the shared services. 
+• Also created some custom angular filters to achieve the acceptance criteria as per the user stories provided. 
+• Integrated controllers with templates and directives in the most efficient way possible, keeping implementation of various parts of a web page segregated. 
+• Responsible for developing responsive web pages using techniques like twitter Bootstrap 3 and media queries. 
+• Also used Node for the micro servicing. Worked with node modules such as http, fs, Morgan etc. 
+• Managed projects with Grunt task runner and combined with Bower package manager to install the latest version of libraries based on running in the Node.js environment. 
+• Performed unit testing using Jasmine and Karma, along with integration testing Chrome Inspector to fix bugs and worked closely with QA. 
+• Used GIT for version control of the code and configuration files. 
+ 
+Job Description:- 
+• Worked on an internal application for Account department the which was built on jQuery first. Migrate that application from jQuery to Angular 1.5. 
+• Used Angular Components for the reusable parts of the application. 
+• Created this single page application using UI Router. 
+• Worked with built in directives like ng-messages, ng-maxlength, and ng-minlength, ng-required for the form validation. 
+• Used $q and $resource to communicate with the restful API to get data. 
+• Used Bootstrap to make the pages responsive. 
+• Worked on an hybrid mobile application with ionic framework and use Cordova's built in components in it. 
+ 
+Environment:HTML5, CSS3, JQuery, JavaScript, AngularJS, Cordova, Bootstrap, SASS, JSON, ajax, Grunt, Bower, Karma, 
+Jasmin, GIT
+Front-end Developer
+DirecTV - May, CA
+May 2015 to December 2015
+DirecTV is an American direct broadcast satellite service provider and broadcaster. 
+ 
+Responsibilities: 
+• Worked with the team of architects and back-end Developers to gather requirements and enhance the application functionality and add new features. 
+• Designed the Graphical User Interfaces using HTML5, CSS3, JavaScript, bootstrap and MVC frameworks AngularJS. 
+• Used HTML5's Local Storage over cookies to store the data locally within user's browser. 
+• Used AngularJS framework to bind HTML to JavaScript objects and created custom directive for reusability purpose and made services and factories for common functionalities shared by different controllers. 
+• Used preprocessors LESS to style website. Used mixins, nesting selector, function, variables and expression to style webpage. 
+• Used URL routing handled by UI state router, allowing us to divide the application into logical modules (templates and controllers), each of which would be instantiated when its route was invoked by $Route Provider in Angular JS to route the data from one service to another server. 
+• Involved in validating data using Angular's built in directives as well as custom directives, and passed values from one screen to another. 
+• Used $http service code to interact with Restful Web APIs, Web Services using AJAX, JSON, XML, SOAP. 
+• Used Grunt as a task runner to run common tasks as concatenation, minification, and uglification of JavaScript file and used Bower as a Node Package Manger to install dependency like bootstrap and angular. 
+• Used twitter bootstrap to make responsive web-design to make it compatible with mobile, tabs and laptops. 
+• Client side validation was done, were unit test cases were written in JASMINE and run on KARMA. 
+ 
+Environment:HTML5, CSS3, JQuery, JavaScript, LESS, AngularJS, Bootstrap, JSON, ajax, Grunt, Bower, Karma, Jasmin, XML, Eclipse.
+Web Developer
+T-Mobile - Bellevue, WA
+January 2014 to April 2015
+T-Mobile US, Inc. is a major operator. The German telecommunications company Deutsche Telekom (DT) is its majority shareholder, through DT's holding company T-Mobile International AG. T-Mobile is the third largest wireless carrier in the United States. 
+ 
+Responsibilities: 
+• Worked on Design, UI, HTML, CSS, JavaScript, jQuery, JSP, accessibility and optimization. 
+• Integrated backend codes using jQuery, JSON, and AJAX to get and post the data to backend servers. 
+• Translated designs and style guides into functional user interfaces, ensuring cross browser compatibility, performance and robustness. 
+• Created some AngularJS Proof of Concept for demos, forms, form validation, disable radio. 
+• Utilized various jQuery plugins to build Rich Internet Application to make it look more intuitive. 
+• Implemented various Validation Controls for form validation and implemented custom validation controls with JavaScript validation controls. 
+• Applied jQuery validation plugin to validate the user input and to improve user experience. 
+• Used jQuery core library functions for the logical implementation part at client side for all the applications. 
+• Deployed Application on Tomcat Server. 
+• Implemented chained select plugin for jQuery with JSON processing and callback feature, chain multiple selects with ease. 
+• Involved in full software development lifecycle. Designing, coding, testing, debugging and support. 
+ 
+Environment: HTML, CSS, jQuery, JavaScript, AngualrJS, JSON, Ajax, JSP, Apache tomcat, Sublime.
+Front-end Web Developer
+Western Union - Englewood, CO
+June 2012 to December 2013
+The Western Union Company is an American financial services and communications company. Western Union has several divisions, with products such as person-to-person money transfer, money orders, business payments and commercial services. 
+ 
+Responsibilities: 
+• Designed the website and created/developed web interfaces. 
+• Created Responsive Designs (Mobile/Tablet/Desktop) using HTML & CSS. 
+• Created appropriate concept models, site organization, navigation, page layouts and interaction to support company's needs and goals. 
+• Designed dynamic client-side JavaScript codes to build web forms and simulate process for web application, page navigation and form validation. 
+• Worked with Closures, event handling, event bubbling and cross browser scripting. 
+• Used CSS Sprites to decrease the number of HTTP requests and load time of web pages. 
+• Did Cross - Browser coding, for making pages compatible with all browsers. 
+• Performed validation of completed sites including the debugging and testing of code. 
+• Used JavaScript OOP to generate temporary variable together with user information, and connect to AJAX when submit page. 
+• Debugging web pages with firebug and fixing issues. 
+• Improved outgoing quality through test and yield improvements and characterization. Also reduced costs through test time improvements. 
+ 
+Environment: HTML, CSS, JavaScript, AJAX, Eclipse, Firebug.
+Junior-level Web Developer
+Space O Technologies - Ahmedabad, Gujarat
+August 2010 to May 2012
+Space O Technologies, is an Indian company who build mobile application. 
+Responsibilities: 
+• Involved to design layouts using HTML, CSS and built clean, user-friendly UI. 
+• Involved to implement user interface guidelines and standards throughout the development and maintenance of the website using DHTML, HTML, CSS, and JavaScript. 
+• Responsible for the overall layout design, color scheme of the web site using XHTML and CSS. Created detailed wire frames & process flows. 
+• Worked with CSS Selectors, classes, ids, pseudo classes, Inheritance and cascade concepts, Box model with fixed width, fluid & elastic layouts. 
+• Used JavaScript and JSON to update a portion of a web page thus reducing bandwidth usage and load time and add modal dialog in web pages to get user input and requests. 
+• Handling cross browser compatibility issues and did manual testing for small projects. 
+ 
+Environment: HTML, DHTML, CSS, JavaScript, AJAX, JSON, Eclipse
+Skills
+ajax (5 years), CSS (5 years), HTML (5 years), JavaScript (6 years), testing. (6 years)
+Additional Information
+Technical Skills: 
+ 
+• Web Technologies: HTML/HTML5, CSS/CSS3, SASS, LESS, JavaScript, AngularJS, AJAX, JSON, Bootstrap, 
+JQuery, NodeJS, ECMAScript 6, MongoDB, Cordova and Ionic Framework (basics), Angular 2, Typescript, Backbone.js and React (POCS) 
+• Web-Tools: Bower, Yeoman, Grunt and Gulp 
+• IDE's and Tools: Eclipse IDE, Notepad++, Brackets, Webstrom, and Sublime text 
+• Debugging Tools: Firebug, Bugzilla, Chrome dev tools, Batarang, Web inspector 
+• Web/App Servers: Apache Tomcat 7.x/8.x, HTTP web server, Couchbase and CouchbaseLite 
+• Testing Frameworks: Jasmine and Karma 
+• Methodology: Agile and Waterfall 
+• Version Control: GIT and SVN 
+• Operating System: Windows XP/Vista/7/8, macOS 
+• Browser: IE, Chrome, Firefox, Safari 
+• Other: Microsoft Office (Excel, PowerPoint, Word)

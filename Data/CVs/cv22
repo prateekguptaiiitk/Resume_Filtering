@@ -1,0 +1,63 @@
+Ankit Mittal
+Software Developer - Mezzure Software Technologies Ltd
+
+Pune, Maharashtra
+Work Experience
+Software Developer
+Mezzure Software Technologies Ltd
+July 2016 to Present
+From July 2016 to Present. 
+ 
+Projects 
+Project 1 
+Project Title: Trinetra 
+Worked With: HCL Technologies Ltd. 
+Role: Software Developer 
+Description: 
+• The project focuses on the development of software for the cameras. It consists of three modules- View, Middleware and Hardware. 
+• I was working under Middleware team. 
+• The key responsibilities of Middleware Team include Audio-Video Synchronization, sequencing of decoding and encoding. 
+• Middleware receives the commands from View and performs its functions accordingly and then sends the result to the Hardware. It then receives response from the hardware and provides the result to View after performing various functions. 
+• Features developed under Middleware Team are Super Slow Recording, Highlight Movie, etc. 
+ 
+Responsibilities: 
+• Developing the code as per the requirements. 
+• Handling different types of issues. 
+• Unit testing of the code before its release. 
+• Burning software into the cameras. 
+• Working on GIT and SVN version control tools. 
+Project 2 
+Project Title: P&G 
+Worked With: Mezzure Software Technologies Ltd. 
+Role: Software Developer 
+Description: 
+• The project focuses on the development of web based product which is used for data collection and generating reports according to the user requirements. 
+• The key responsibilities of Development Team include back-end code development, front-end data rendering, database management and unit testing. 
+• Mezzure uses it own terminologies for referencing different types of data. It is developed using the MVC architecture and Cassandra is used for the database. 
+• It asks the user for the input files and the columns to be associated with the output report. The data is saved in the Cassandra database and different relations are created among different data in order to get the specified report. 
+ 
+Responsibilities: 
+• Developing the code as per the requirements. 
+• Handling different types of issues. 
+• Unit testing of the code before its release. 
+• Handling database for minimizing redundancy and improving consistency. 
+• Rendering data to the web pages and handling the client side issues. 
+ 
+Projects Undertaken (Academic) 
+• Major Project: 
+Project Title: Conquer - A Puzzle Game 
+Description: A single-player 2-D game developed for the purpose of entertainment on desktops and laptops. The game includes a maze which contains 8 different games on every other step taken by the player. The player creates his account and competes with himself for the high score. The game was developed using JAVA technology and MySql server for database management. 
+Duration: 60 days 
+Team Size: Three Members 
+Contribution: Coding and Database Management
+Software Developer
+HCL Technologies Ltd - Noida, Uttar Pradesh
+August 2014 to July 2016
+Education
+B.Tech in CSE
+Graphic Era University Dehra Dun, Uttarakhand
+2014
+B.Tech (honors in Computer Science & Engineering
+Graphic Era University Dehra Dun, Uttarakhand
+Skills
+Java (3 years), Javascript (1 year), Ajax (1 year), Jquery, J2Ee (1 year)

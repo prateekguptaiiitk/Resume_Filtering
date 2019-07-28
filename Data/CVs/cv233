@@ -1,0 +1,67 @@
+Rucha Parab
+Java Developer
+
+Mumbai, Maharashtra
+The aim of a Project is to develop and maintain various implemented projects and provide best integration solution to the client to help to maintain the business. 
+ 
+Technologies: Java, Unix, Python, CORBA 
+Responsibilities: 
+• Analyzing and gathering the requirements from customer in case of modification to the existing business logic as per customer specifications. 
+• Developing the modules on the basis of changes required by customer. 
+• Developed small business logics using Java, Servlets, MQ. 
+• Unit testing of the developed module to make sure bug free codes. 
+• Testing and Maintenance of existing AI system and Integrations. 
+• Working knowledge in UNIX and writing scripts using Shell, Python. 
+• Experience of preparing effort estimation, impact analysis, documentation etc. 
+• Strong analytical, problem solving and debugging skills. 
+ 
+# POC: 1 
+Project Name: Log Analysis with Apache Spark 
+Role: Hadoop Developer 
+Summary: 
+Log Analysis with Apache Spark is an offline POC which has been performed on the request of one of our e-commerce customer to improve their business with the help of Big Data Technologies. 
+ 
+Technologies: Apache Spark, Apache Hadoop, Python 
+Responsibilities: 
+• Import the data to the HDFS. 
+• Log data is an unstructured source of the data, so initially parsing each of the log line with the help of Python Regular Expressions and functions. 
+• Analysing data with the help of Spark Functionality, RDDs. 
+• Bring some insight from the data to improve business area. 
+ 
+# POC: 2 
+Project Name: Retail Data Analysis 
+Role: Hadoop Developer 
+Summary: 
+Retail Data Analysis is an offline data processing POC. Analysis has been done on Retail Store Data by using Pig as well as Hive to compare performance of both with respect to each other. 
+ 
+Technologies: Apache Hadoop, MySQL, Pig and Hive 
+Responsibilities: 
+• Loading the data from MySQL to Hadoop Distributed File System using Sqoop 
+• Developed Pig queries to analyse the data 
+• Created Hive scripts as per business requirements and push the data to Hive Table.
+Work Experience
+Java Developer
+Tata Consultancy Services
+August 2014 to January 2017
+Project Name: Application Integration (Development and maintenance middleware project) 
+Duration: 4th Aug, 2014 - 31th Jan, 2017 
+Role: Java Developer
+Education
+B.E.
+Mumbai University Bandra, Maharashtra
+2010 to 2014
+Sathaye College
+2010
+SPS Suvidyalaya School
+2008
+Skills
+Apache (2 years), APACHE HADOOP HDFS (2 years), APACHE HADOOP SQOOP (2 years), CORBA (2 years), Hadoop (2 years)
+Additional Information
+Technical Skills 
+ 
+Hadoop Ecosystem HDFS, MapReduce, Hive, Pig, Sqoop, HBase, Flume and ZooKeeper 
+Database and tools HBase, Hive, Oracle, CORBA, IBM MQ 
+Operating System Windows, Linux 
+Language Java, Python 
+Technologies Apache Hadoop, Apache Spark 
+Other Technologies XML, JSP -Servlet, Apache ant, HTML/CSS, Web services, Apache POI

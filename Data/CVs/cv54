@@ -1,0 +1,195 @@
+RESUME
+SOHAM DAS
+Currently pursuing M.Tech(2010
+-
+2012) in Computer Science & Engineering,
+Department of Computer Science & Engineering,
+Indian Institute of Technology Delhi.
+Homepage: 
+http://www.cse.
+iitd.ernet.in/~mcs103480/
+email: 
+88soham@gmail.com
+, 
+mcs103480@cse.iitd.ac.in
+Mob.: (+91) 07827857566
+ACADEMIC DETAILS:
+YEAR
+Degree/Exam
+Institute
+GPA/Marks
+2012
+M.T
+ech(CSE)
+Indian Institute of Technology Delhi
+8.24/10(till 3
+rd
+sem)
+2010
+B.Tech(CSE)
+Institute of Engineering & Management, West Bengal University of Technology
+9.04/10
+2006
+Higher Secondary
+South Point High School (WBCHSE)
+84.9%
+2004
+Secondary
+South Po
+int High School (WBBSE)
+91.3%
+AREAS OF INTEREST:
+Modeling & Analysis of Social Networks, Network Algorithms, Wireless Networks and Data Mining
+COURSES DONE:
+M.Tech:
+Information  Retrieval,  Database  Implementation,  Special  Topics  in  Algorithms  (Cryptograp
+hy),  Wireless  Networks,  Fault  Tolerant 
+Systems,  Digital Image Analysis, Logic & Functional Programming
+B.Tech: 
+Data Structures, Design & Analysis of Algorithms, Formal Languages & Automata Theory, Computer Networks, Database Management 
+Systems, Artificial
+Intelligence, Operating Systems, Computer Organization, Computer Architecture, Compilers
+M.TECH THESIS (2011
+-
+):
+Title:
+Modeling and Analysis of Topic Diffusion in Social Networks.
+Supervisor:
+Dr. Amitabha Bagchi, IIT Delhi
+Description:   
+This  work  is  pr
+imarily  concerned  with  modeling 
+dynamics  of  topics  spreading  in  a  social  network 
+and  analyzing  the 
+virality 
+of 
+topics. We propose a theoretical model to simulate social network dynamics with a continuous stream of exogenous topics compe
+ting to enter 
+into a
+nd diffuse through the network. The model is being tested on a synthetic social network graph that follows the 
+Watts & Strogatz (Small 
+World)  Graph
+Model.  We  apply 
+Mean  Field  Theory
+concepts  for  analyzing  the  dynamics  of  the  process.  Besides  theoretical  mo
+deling,  this 
+project involves extensive coding and simulation studies. We used C and Python for coding. We also developed a parallel code 
+using MPI library 
+to make the simulations faster. We study several metrics of topic diffusion like the 
+lifetime, sprea
+d of topics, cluster formation & merging 
+and
+graph modularity
+to analyze 
+virality
+of topics. The interesting fact revealed by our study is  that virality of  topics in this model is achieved as a 
+consequence of the network dynamics, we call 
+lattice cluster m
+erging
+.
+B.TECH Project (2009
+-
+2010):
+Title:
+Augmenting & Compressing the 
+Farey Table 
+and its Applications to Digital Image Processing
+Supervisor:
+Dr. Partha Bhowmik, IIT Kharagpur
+I  did  my  final  year  B.Tech  project  on  the  problem  of  augmenting  &  compressi
+ng  the 
+Farey  Table 
+to  be  used  in  digital  image  processing 
+applications.  Our  study  shows  that  the  ranks  of  fractions  in  the  Farey  sequence  can  be  used  to  provide  a  useful  estimation  of
+their  relative 
+values. We designed a novel algorithm
+to efficiently find
+the fraction in a Farey sequence 
+F
+n
+closest to a given fraction 
+p/q
+. We could avoid all 
+floating  point  operations  which  made  this  even  more  elegant  and  faster.  It  finds  excellent  applications  in  polygonal  approxim
+ation  and  shape 
+analysis.
+PUBLICATIONS
+:
+Soham  Das,  Kishaloy  Halder,  Sanjoy  Pratihar,  and  Partha  Bhowmick, 
+Properties  of  Farey  Sequence  and  their  Applications  to  Digital  Image 
+Processing
+, 
+Fourth International Conference on Information Processing
+(ICIP),  Bangalore, 2010, Proceedings ISBN Number :
+978
+-
+93
+-
+80578
+-
+46
+-
+0.  page number: 71
+-
+81.
+AWARDS & HONOURS:
+
+Best  Paper  Award
+at  ICIP  2010:  Won  the  best  paper  award  for  the  paper 
+Properties  of  Farey  Sequence  and  their  Applications  to 
+Digital Image Processing
+, Fourth International Conference on Informati
+on Processing, Bangalore, 2010.
+
+HRD Scholarship: Received post
+-
+graduation scholarship based on GATE rank.
+TECHNICAL SKILLS:
+Programming Languages
+: C, C++, Python (Networkx library), Parallel Programming (MPI library), Graph Visualizations (Graphviz librar
+y).
+Softwares: 
+Matlab, gnuplot, Latex, SocnetV, Pajek.
+OTHER PROJECTS:
+
+Human Activity Detection using SunSPOTS
+
+SQL Injection Attacks and Preventive Measures
+
+Online Multiplayer Ping
+-
+Pong Game using C and OpenGL
+
+Painterly Rendering of Real Images using Imag
+e Processing Techniques
+
+Face Recognition using PCA
+
+Web based Online Location and Travel Facilitation Service 
+as an Android application
+
+Software to allocate Seats for students in an Examination Center
+INDUSTRIAL TRAINING:
+Title: 
+Client Query Registry
+Desc
+ription:
+Worked  with  the  Oracle  Web  Support  team  in  TCS,  Kolkata.  Developed  a  repository  of  client  information,  their  queries  and  the 
+solutions using Oracle Databases. 
+POSITION OF RESPONSIBILITY HELD:
+Served as a Teaching Assistant [Jan 2012 to Present] 
+under Prof. Vinay Ribeiro for Wireless Netowrks (CSL 838).
+Served as a Teaching Assistant [July 2011 to Dec 2011] for under
+-
+graduate course Introduction to Computers & Programming (CSL 101). 
+EXTRA CURRICULAR ACTIVITIES:
+Social Work:
+Have worked with soci
+al organization WE CARE, which provides primary education to street children in Kolkata.
+Movie Making: 
+Won the 2nd prize in a short
+-
+movie making competition with the movie named "if I could fly".
+Other Interests: 
+Travel, Music, Photography, Playing Cricket
+.

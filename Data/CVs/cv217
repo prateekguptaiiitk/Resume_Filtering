@@ -1,0 +1,172 @@
+soundarya java developer
+Software Developer - DirecTV
+
+Wilmington
+● Over 7+ years of experience as a Java developer in analysis, design, development, deployment, testing and support of Client Server Systems and Web Applications 
+● Strong experience in Design and development of multi-tier web based applications using J2EE technologies JAVA, JAVA Swing, Servlets, JSP, Oracle, MySQL, MS SQL and JDBC 
+● Hands-on experience in Core Java, GWT, GWTP, JSP & Servlets 
+● Extensive experience in Object Oriented Analysis in developing server side and front-end framework using J2EE design patterns 
+● Developed applications with a technology stack of Mongo DB, Angular.js, Node.js. (MEAN Stack) 
+● Experience using Rational Rose, Microsoft Visio to create UML diagrams 
+● Experience in designing User Interface (UI) applications and professional web applications using HTML, DHTML, XHTML, HTML5, XML, XSL, XSLT, jQuery, NodeJS, AngularJS, ReactJS, Apache Tiles and CSS 
+● Expertise in client scripting language and server side scripting languages like JavaScript, Promise Object, AngularJS, NodeJS, jQuery and JSP 
+● Experience in building enterprise Applications and Distributed Systems using JMS and XML 
+● Experience in designing Rich Internet Applications (RIA's) with jQuery and AJA 
+● Experience in implementation of business applications using BEA WebLogic, WebSphere, IBMWebSphere Application and Portal Server (WAS/WPS), JBoss and Tomcat 
+● Extensive knowledge of MVC architecture and J2EE Design Patterns like Singleton, Session Facade, Service locator, DAO, DTO, and Business Delegate in the development of web based and distributed Enterprise Applications 
+● Experience with Corticon Rules Engine 
+● Development of application using JPBM workflow engine which manages specific tasks which are workflow oriented and should be moved back and forth during any process of workflow phases 
+● Experience in SQL joins, sub queries, tracing and performance tuning for better running of queries 
+● Created stand-alone spring applications using Spring Boot 
+● Expertise in XML and schemas like XSD, DTD and parsers like JAXP (SAX & DOM) and JAXB 
+● Expertise in MVC Architecture using Struts, JSF, Spring with features like the Validation Framework, Tiles etc. 
+● Involved in all phases of the Software development life cycle (SDLC) using Agile Methodology 
+● Expertise in version control technologies such as ClearCase, GitHub, SVN etc. 
+● Experience in implementing Service Oriented Architecture (SOA) with XML based Web Services. 
+● Extensive experience using framework APIs like Struts, Spring, iBatis and Hibernate. 
+● Hands on experience on writing Queries, Stored procedures, Functions and Triggers by using PL/SQL. 
+● Experience in using Apache Ant and Apache Maven build automation tools in deploying the projects 
+● Developed ANT scripts and used MAVEN tool to build and deploy J2EE Applications 
+● Hands on experience in using JUnit, Log4J for debugging and testing the applications
+Work Experience
+Software Developer
+DirecTV - Los Angeles, CA
+July 2016 to Present
+ScoreGuide Application 
+ 
+Description: DIRECTV is one of the world's leading providers of digital television entertainment services delivering a premium video experience through state-of-the-art technology, unmatched programming, and industry leading customer service to more than 37 million customers in the USand Latin America 
+Score Guide is an application system that provides sport statistic like live data, final events results, future events schedule, team's structure and scores. It supports many sports like NFL, NBA, NHL, MLB, Golf, Soccer, etc 
+ 
+● Implemented using Agile methodology with 3 week iterations in a sprint, and implemented the project using SOA architecture 
+● Customized Jasper Reports and SQL procedures according to the client requirements 
+● Designing and creating business rules using Corticon Rule Engine. Utilized using Agile Methodology (SDLC) to managed projects 
+● Worked on designing Restful web services 
+● Developed application using Hibernate to implement and leverage the ORM framework 
+● Used JUnit for all unit testing and integration testing 
+● Used Apache CXF to create SOAP based web services 
+● Created web services such as REST and SOAP to allow communication between the applications 
+● Integrated spring framework for dependency injection, transaction management among different layers of the application 
+● Used Spring MVC framework controllers for Controllers part of the MVC 
+● Designed Use Case Diagrams, Class Diagrams and Sequence Diagrams using Microsoft Visio 
+● Designed User Interface based on MVC framework, which attains an apt coordination for Struts MVC, JSP, Servlets and Custom Tag Libraries 
+● Implemented the validations using Struts MVC Framework 
+● GUI was developed using GWT JavaScript 
+● Created Action Classes for Controller in Struts MVC Framework 
+● Implemented Struts Framework for configuration of action mappings and presentation logic in JSPs, Servlets 
+● Implemented the logging mechanism for the entire application using Log4j 
+● Extensively used Oracle as the database for all the data related to both the web applications 
+● Used JIRA for bug tracking and project management 
+● Automated the decision management system with Corticon rules engine 
+● Used Spring Security to handle authentication, data integrity and single-sign-on 
+● Implemented the project using Maven build tool 
+● Created Spring batch jobs to write/read data from Oracle 
+● Used Promises as an alternative for executing, composing and managing asynchronous operations 
+● Used SVN as source code repository system for source code version control 
+● Used Java Swing for providing Graphical User Interface 
+● Deployed and tested Applications on Apache Tomcat server 
+● Worked on UI development using HTML, JavaScript, AngularJS and CSS 
+ 
+Environment: Java, J2EE, Spring, Spring Security, HTML, GWT, JavaScript, AngularJS, CSS, Log4j, JUnit, Apache Tomcat server, Apache CXF, Eclipse, Oracle, SVN, JIRA, Hibernate
+Java Developer
+Barclaycard US - Wilmington, DE
+July 2014 to June 2016
+Description: Barclaycard, part of Barclays Retail and Business Banking, is a global payment business 
+The objective of the project is to migrate the standalone application to web based system and add more functionality to existing system. The dashboard application was developed to monitor the recent transaction history and also to alert sections. The project is divided into two Phases. The first phase is user interface development and the second phase is web enabled and middleware development. All the phases are designed using MVC architecture with Restful web services 
+ 
+● Handled the application using Struts (MVC Framework) and Strut Tiles to develop presentation tier and business layer 
+● Implemented Object-relation mapping in the persistence layer using hibernate framework in conjunction with validation xml functionality 
+● Extensively used DAO patterns, including mapping DAO objects, configure file and classes to interact with database 
+● Used JMOCK for integration testing 
+● Created stories and tasks using RTC 
+● Implemented client side Interface using ReactJS 
+● Used ReactJS for templating for faster compilation and developing reusable components. 
+● Used Spring boot for securing the REST API 
+● Implemented Object-relation mapping in the persistence layer using Hibernate (ORM) framework 
+● Developed rich User Interface using jQuery, CSS, and HTML5 
+● Used AJAX function calls using jQuery functions to handle the user requests asynchronously and to have faster responses from the server by directly connecting to the server 
+● Obtained JSON responses to front-end using GSON API 
+● Implemented web services, used to retrieve data that tells whether claimant is incarcerated or not 
+● Developed applications using Hibernate persistent framework, developed persistent classes, hibernate-mapping files, configured XML files, hibernate query language 
+● Developed JSP pages for correspondence team 
+● Implemented web services using WSDL/SOAP and created web services and clients to use those services 
+● Used Data Access Objects (DAO), Session Facade, and Business Delegate and Factory patterns to increase the performance of the system 
+● Worked in installing, configuring and deploying application on Web Logic Server 
+● Implemented build scripts using MAVEN 
+● ClearCase technology was used for version controlling 
+ 
+Environment: Java, Spring MVC, Oracle Web Logic, JSP, JSF, JavaScript, ReactJS, XML, XSD, Eclipse indigo, Windows, JUnit, Maven, JSON, Hibernate, SOAPUI, Clear Case 
+ 
+Caliber Home Loans Greenbelt, MDMar 12- Jun 14 
+Java/J2EE Developer 
+ 
+Description: Caliber Home Loans, Incis a full-service national mortgage lender and agency direct seller/servicer. Caliber originates loans through various channels and transaction types, including a network of retail branches, wholesale lending, correspondent and emerging banker lending, and a consumer-direct centralized operation specializing in a variety of loan programs for purchase and refinance such as conforming, jumbo, and government products. Caliber also offers innovative servicing solutions for both conforming and non-conforming loans. Caliber is led by a veteran senior management team that consists of mortgage banking professionals with a history of building successful national mortgage operations. Caliber is owned by Lone Star Funds, a global private equity fund 
+ 
+● Involved in the complete Software Development method which is AGILE including Requirement Analysis, Design, and Implementation and testing 
+● Utilize in-depth knowledge of functional and Technical experience in Java/J2EE and other leading-edge products and technology in conjunction with industry and business skills to deliver solutions to customer 
+● Designed application modules, base classes and utility classes using core java 
+● Front end of application has been implemented with Spring MVC architecture with Junit test cases and interceptor for the validation of the secured cookie 
+● Primarily focused on the spring components such as Dispatcher Servlets, Controllers, Model and View Objects 
+● In the Front end of the Application designed and implemented a publishing framework and reusable UI component library based on jQuery 
+● Implemented the application following the J2EE best practices and patterns like Singleton, Factory, MVC and DAO 
+● Wrote SQL Queries to get the information from Database, Saving the data, modifying the data in the Database, and removing the data from the Database 
+● Developed Hibernate DAO classes and with the Spring framework manager classes retrieve and save the data from the database 
+● Used Spring IOC to integrate with Hibernate 
+● Used Agile Software Development for development of the project 
+● Developed business components using Spring API (Stateless Session Factory) 
+● Focus on converting the existing features in the application towards globalization of the application which is internationalization of the web representation 
+● Implemented logging mechanism using Log4j with Spring Framework 
+ 
+Environment: Java, J2EE, spring, SQL, AJAX, jQuery, XML, JavaScript, CSS, NetBeans, JUnit, Tomcat, GitHub, Log4j and Windows XP
+Java Developer
+GVK Group - Hyderabad, Telangana
+September 2011 to February 2012
+Description: The scope of the project was to improve Account Management System, where all the customer information is streamlined, and also includes adding more products and bundling existing ones 
+ 
+● Involved in prototyping, proof of concept, design, Interface Implementation, testing and maintenance 
+● Created use case diagrams, sequence diagrams, and preliminary class diagrams for the system using UML/Rational Rose 
+● Designed and developed the persistence tier using Hibernate framework 
+● Designed and developed front view components using JSP and HTML 
+● Developed re-usable utility classes in core java for validation which are used across all modules 
+● Developed UI navigation using Struts MVC architecture 
+● Developed Java classes for implementing Business logics using EJB (Stateless session, entity, message driven beans) 
+● Wrote Stored Procedures for MSSQL Database 
+● Used JNDI to support transparent access to distributed components, directories and services 
+● Deployed and tested the application with web server Tomcat, WebSphere 
+● Developed Interactive web pages using AJAX and JavaScript 
+● Worked on Report Module, generating PDF/ CSV according to the template 
+● Configured and tested the application with database server Oracleand MySQL 
+● Involved in developing various reusable Helper and Utility classes using Core Java, which are being used across all the modules of the application 
+● Helped in database design and tuning, created stored procedures, Views in the Database 
+ 
+Environment: JDK, Core Java (Multithreading, Collections), JSP, JSTL, Servlets, Struts, EJB, XML, HTML, JavaScript, AJAX, SOAP, WSDL, UML, JDBC, JUnit, log4j, WebSphere Application Server, Oracle Database, MS-SQL Server, Windows
+Java Developer
+Union Bank of India - Hyderabad, ANDHRA PRADESH, IN
+June 2010 to August 2011
+Description:Union Bank of India is one of the largest government-owned banks of India. It provides products and services in area of saving, deposit, retail loans, cards, and insurance. The objective of the project is to enable the personal banking system which eases the maintenance of various accounts including credit-cards, loans, and fixed deposits. The system offers automatic bill payments, bill scheduling, fund transfers and automatic notifications through emails 
+ 
+● Actively involved in Requirement Analysis, Design, Coding, Developing, unit testing and System Testing 
+● Used JDBC to connect to SQL Server database for data retrieval and store 
+● Involved in writing complex SQL queries and stored procedures in SQL Server 
+● Deployed application on WebLogic server and used Log4j for logging and tracing the messages 
+● EclipseIDE was used and SVN repository for version control 
+● Apache ANT was used for the entire build process 
+● Provide status reports to the management and used JUnit for unit testing for all the modules 
+● Co-ordinate tasks with team and provide status reports to the management 
+ 
+Environment: Core Java, SQL, Rational Rose, JMS, WebLogic, JDBC, Log4j, Eclipse, SVN, Apache ANT, Junit
+Education
+Bachelor of Technology in Technology
+JNTU
+Skills
+database (4 years), Eclipse (4 years), Java (4 years), JUnit (4 years), SQL (4 years)
+Additional Information
+TECHNICAL SKILLS: 
+ 
+Technologies: Java J2EE, C, C++, JSP, J2EE6, Struts, Servlets, JNDI, Java, Bootstrap, 
+Web Services, EJBs, Java Beans, JMS, JDBC, Hibernate, Spring, XML, JavaScript, AngularJS, NodeJS, React.js, HTML, HTML5, CSS, AJAX, JUNIT, JMOCK, JPA, Design patterns, DHTML, DTD, XSD, SAX, DOM 
+ 
+Frameworks/ORM tools: Spring, Struts, Hibernate, JSF, Apache Axis, Apache CXF 
+App Servers/ Middleware: WebSphere, WebLogic, Tomcat, JBoss, WebSphere MQ, MQ series 
+IDE / Programming Tools: Eclipse, NetBeans, IBM RAD, IntelliJ 
+Scripting Language: JavaScript, jQuery, Python, UNIX shell scripting 
+Web Services: Apache Axis, SOAP 
