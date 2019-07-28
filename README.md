@@ -1,7 +1,10 @@
-# Resume Filtering Using Machine Learning
-![alt text](https://github.com/prateekguptaiiitk/Resume_Classifier/blob/develop/SkyBits-logo-small.png) </br>
+<img src="https://github.com/prateekguptaiiitk/Resume_Classifier/blob/develop/SkyBits-logo-small.png" align="left" hspace="1" vspace="1" height="100" width="268">
 
-</br>Resume filtering on the basis of Job Descriptions(JDs). It was a summer internship project with [**SkyBits Technologies Pvt. Ltd.**](http://sky-bits.com/)
+# Resume Filtering Using Machine Learning
+
+Resume filtering on the basis of Job Descriptions(JDs). It was a summer internship project with [**SkyBits Technologies Pvt. Ltd.**](http://sky-bits.com/)
+
+---
 
 ## Introduction
 
