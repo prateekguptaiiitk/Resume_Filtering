@@ -1,0 +1,94 @@
+Mohammed Yaqoob
+Front-End Developer - FedEx
+
+Bangalore, Karnataka
+Seeking a challenging position, utilizing my abilities developed through my experience and education with an opportunity for career growth based on my merit and to promote the growth of the organization.
+Work Experience
+Front-End Developer
+FedEx
+January 2017 to Present
+Technologies Used: AngularJS 2, CSS (bootstrap) 
+Description: "MAGIC" application is developed for the users to get registered and login through the credentials with required fields. 
+Duration: From Jan 2017- Till Date 
+Team Size: 3 
+Roles & Responsibilities: 
+• Created components for the application. 
+• Used decorator classes, template styles, modules and Dependency Injection for services 
+• Provided data binding using one-way and two-way binding. 
+ 
+Project 2: 
+Title: HPENFV-SolutionPortal 
+Role: Front-End and Backend Developer 
+Client: HPE 
+Technologies Used: AngularJS 1.5, Java 1.6, CSS (bootstrap2.x), JavaScript, Nodejs v5.0, bower, gulp 
+Description: NFV (Network Function Virtualization) Partner Catalog application developed on HPE Propel. HPE Propel is a service broker solution that provides IT a single user experience and unified hub for multi-supplier integrations for 100% of their applications and services. NFV Partner Catalog application maintains the Partner's and VNF's (Virtual Network Function) details. 
+Team Size: 6 
+Duration: From Sept 2015 - Dec17 
+Roles & Responsibilities: 
+• Embedding the new features such as registration module, reset password module, forgot password module. 
+• Creating services to interact with LDAP for these authentications. 
+• Mail functionality for send mails to user after registration, reset and forgot password.Blacklisting the users in LDAP. 
+• Implementing carousels, responsive tabs with switching up of views from table to tile. 
+• Bringing up modal windows for redirecting to links in application. 
+• Modifying the Look and feel of page and updating into repositories. 
+ 
+Project 3: 
+Title: DIGITAL WALL 
+Role: Front-End Developer 
+Client: Schneider electric 
+Technologies Used: AngularJS 1.3, Java 1.6, CSS, JavaScript. 
+Description: Multi-window based application developed to showcase the details of company and services with there desired products using Liferay. 
+Duration: From June 2015 - Sept 2015 
+Team Size: 4 
+Roles & Responsibilities: 
+ 
+• Created views for the application which routes using AJAX calls. 
+• Implemented wall movement functionality using css frameworks (bootstrap) 
+• Worked on SVN add, update and checkout. 
+• Involved in Unit Testing and Regression testing. 
+ 
+Project 4: 
+Title: SHOPPING CART APPLICATION 
+Role: Front-End Developer 
+Client: Internal 
+Technologies Used: AngularJS 1.3, NodeJS, CSS (bootstrap & font-awesome), JavaScript. 
+Description: A shopping cart is basically a list that contains products selected by the user while he shops. When the user is finished shopping, he will usually examine the list to double-check that the items, quantities, and prices are correct.The view shows details about a product and allows users to add or remove the product to/from the shopping cart and also presents a quick summary of the cart so users can tell whether this product is already in the cart. 
+Duration: From Feb 2015 - June 2015 
+Team Size: 3 
+Roles & Responsibilities: 
+• Created views for the application which routes using angular route. 
+• Added cart for checkout and also to remove added item. 
+• Shop items through sort like Low-High, High-Low, Popularity etc. 
+• Worked on filters to distinguish among viewed products and Listing on items. 
+• Performed integration, functional & regression testing.
+Education
+BE in Information Science
+T.John Institute of Technology
+2014
+Presidency Junior College
+2010
+SSLC
+St.Paul's High School
+2008
+Skills
+AngularJS (Less than 1 year), bootstrap (Less than 1 year), CSS (Less than 1 year), Database (Less than 1 year), Eclipse (Less than 1 year)
+Additional Information
+TECHNICAL SUMMARY 
+ 
+➢ 2+years of experience in Mphasis with AngularJS and Angular2. 
+➢ Experienced in creating SPA in AngularJS. 
+➢ Basic hands on npm, grunt, bower and gulp. 
+➢ Hands on angular filters, directives, ajax calls for fetching json data. 
+➢ Worked on with routing of views using routeProvider. 
+➢ Created custom directives for extending functionality of HTML. 
+➢ Hands on creating responsive mobile view using bootstrap and foundation. 
+ 
+TECHNICAL EXPOSURE 
+ 
+FrameWorks: AngularJS, Angular2 
+ 
+Languages: HTML, CSS, JavaScript 
+ 
+Development Tools: Eclipse, SublimeText 2, VSCode 
+ 
+Database: Oracle10g, Postgresql
