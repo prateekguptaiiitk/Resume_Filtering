@@ -92,6 +92,3 @@ For example:
 </td>
 </tr> 
   </table>
-
-
-Thonk you!!
