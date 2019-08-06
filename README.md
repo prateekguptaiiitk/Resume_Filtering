@@ -92,3 +92,5 @@ For example:
 </td>
 </tr> 
   </table>
+
+For any qurries email at: <pre>prateekjpg@gmail.com</pre>
