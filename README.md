@@ -1,4 +1,4 @@
-s<img src="https://github.com/prateekguptaiiitk/Resume_Classifier/blob/develop/SkyBits-logo-small.png" align="left" hspace="1" vspace="1" height="100" width="268">
+<img src="https://github.com/prateekguptaiiitk/Resume_Classifier/blob/develop/SkyBits-logo-small.png" align="left" hspace="1" vspace="1" height="100" width="268">
 
 # Resume Filtering Using Machine Learning
 
@@ -93,6 +93,3 @@ For example:
 </td>
 </tr> 
   </table>
- 
- 
- Thanks!!
