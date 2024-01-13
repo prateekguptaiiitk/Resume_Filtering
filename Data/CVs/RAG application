@@ -1,0 +1,45 @@
+# Import necessary libraries
+from transformers import RagTokenizer, RagRetriever, RagSequenceForGeneration
+from langchain.document_loaders import WebBaseLoader
+from langchain.indexes import VectorstoreIndexCreator
+
+# Load Component
+# Initialize the loader
+loader = WebBaseLoader("https://www.yourbookurl.com")
+
+# Split: Text splitters break large Documents into smaller chunks.
+# This is done automatically by the loader
+
+# Store: We need somewhere to store and index our splits
+# Initialize the index creator
+index = VectorstoreIndexCreator().from_loaders([loader])
+
+# Retrieval Component
+# Initialize tokenizer
+tokenizer = RagTokenizer.from_pretrained("facebook/rag-sequence-nq")
+
+# Initialize retriever
+retriever = RagRetriever.from_pretrained("facebook/rag-sequence-nq", index_name="exact", use_dummy_dataset=True)
+
+# Initialize model
+model = RagSequenceForGeneration.from_pretrained("facebook/rag-sequence-nq", retriever=retriever)
+
+def answer_question(question):
+    # Encode the query using the tokenizer
+    input_ids = tokenizer.encode(question, return_tensors="pt")
+
+    # Generate the response using the model
+    generated = model.generate(input_ids)
+
+    # Decode the generated ids to get the answer
+    answer = tokenizer.decode(generated[0], skip_special_tokens=True)
+
+    return answer
+
+# User query
+query = "What is the capital of France?"
+
+# Get the answer
+answer = answer_question(query)
+
+print(answer)
